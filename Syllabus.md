@@ -3,13 +3,14 @@
 # BA 510 Databases for Business Analytics
 *Spring 2021*
 ## Course Description
-This course introduces databases and data management in four parts:
-1. __An introduction to database terminology__, with hands-on instructions in Structured Query Language (SQL) SELECT queries needed to extract data from a relational database.
-2. __SQL Data Definition and Manipulation queries__, accompanied by the basics of data modeling and normalization needed to ensure data integrity. (For the benefit those who have had BA 505 Python for Analytics, supplemental instruction will be given to the use of SQL data sources in Python/Pandas. It is entirely optional, without any bearing on class grades.)
-3. __A review of business applications__, with links to business intelligence and data warehousing.  
-4. __A comprehensive data engineering project__ that gives each student the opportunity to integrate and apply their new knowledge and skills.  
+This course introduces databases and data management in five parts:
+1. __Database terminology__, with hands-on instructions in Structured Query Language (SQL) SELECT queries needed to extract data from a relational database
+2. __Data Modeling__, including normalization and diagrammming, with an emphasis on data integrity
+3. __SQL Data Definition and Data Manipulation__, with hands on practice with SQL queries (and their Python equivalents, if desired) that affect data
+4. __Business Applications__, with links to business intelligence, data warehousing, and advanced SQL and NoSQL technologies  
+5. __Final Project__, which gives each student the opportunity to integrate and apply their new knowledge and skills 
 
-(Prerequisite: Graduate Standing; Credit hours: 3)
+(Prerequisites: Graduate Standing; Credit hours: 3)
 
 ## Desiderata
 
@@ -105,12 +106,12 @@ After scaling, the expected grade distribution is approximately:
 |         | **_Quiz 3_**                     | March 14   | March 15   |
 | **7-8** | **Data ETL**                     |            |            |
 |         | Lesson 7: SQL DDL                |            | March 21   |
-|         | Lesson 8: SQL DML.               |            | March 28   |
+|         | Lesson 8: SQL DML                |            | March 28   |
 |         | **_Quiz 4_**                     | March 28   | March 29   |
 | **9-12** | **Data Models**                 |            |            |
 |         | Lesson 9: BI and DW              |            | April 4    |
 |         | Lesson 10: Star Schema           |            | April 11   |
-|         | Lesson 11: NoSQL.                |            | April 18   |
+|         | Lesson 11: NoSQL                 |            | April 18   |
 |         | Lesson 12: Distributed DBMS      |            | April 25   |
 |         | **_Quiz 5_**                     | April 25   | April 26   |
 | **13-15** | **Final Projects**             | April 18   |            |

@@ -46,7 +46,7 @@ Email: chuntley@fairfield.edu (please use sparingly)
 
 ## Student Expectations
 This is a graduate class intended for serious professionals:
-* Expect to spend 6-10 hours per week completing your assignments (and be pleasantly surprised if you finish early). While most work will be asyncronous, dues dates on assignments will be structlt enforced. 
+* Expect to spend 6-10 hours per week completing your assignments (and be pleasantly surprised if you finish early). While most work will be asyncronous, dues dates on assignments will be strictly enforced. 
 * Do your own work. There is no professional benefit to pretending that somebody else's work is your own. We will follow the university's academic honesty policy to the letter.
 * Be a good teammate and class citizen. Free-riding and other unprofessional behavior will result in immediate consequences, which may include failing the course.
 * This is a SQL-based introduction to relational databases. The goal is language fluency. That means writing lots of SQL code by hand on keyboard, eventually without referring to the manual.  

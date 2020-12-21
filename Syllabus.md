@@ -5,7 +5,7 @@
 ## Course Description
 This course introduces databases and data management in five parts:
 1. __Fundamentals__, with hands-on instruction in Structured Query Language (SQL) SELECT queries needed to extract data from a relational database
-2. __Data Modeling__, including normalization and diagrammming, with an emphasis on data integrity
+2. __Data Modeling__, including normalization and diagramming, with an emphasis on data integrity
 3. __SQL Data Definition and Data Manipulation__, with hands on practice with SQL queries (and their Python equivalents, if desired) that affect data
 4. __Business Applications__, with links to business intelligence, data warehousing, and advanced SQL and NoSQL technologies  
 5. __Final Project__, which gives each student the opportunity to integrate and apply their new knowledge and skills 
@@ -46,18 +46,18 @@ Email: chuntley@fairfield.edu (please use sparingly)
 
 ## Student Expectations
 This is a graduate class intended for serious professionals:
-* Expect to spend 6-10 hours per week completing your assignments (and be pleasantly surprised if you finish early). While most work will be asyncronous, dues dates on assignments will be strictly enforced. 
+* Expect to spend 6-10 hours per week completing your assignments (and be pleasantly surprised if you finish early). While most work will be asynchronous, dues dates on assignments will be strictly enforced. 
 * Do your own work. There is no professional benefit to pretending that somebody else's work is your own. We will follow the university's academic honesty policy to the letter.
 * Be a good teammate and class citizen. Free-riding and other unprofessional behavior will result in immediate consequences, which may include failing the course.
-* This is a SQL-based introduction to relational databases. The goal is language fluency. That means writing lots of SQL code by hand on keyboard, eventually without referring to the manual.  
+* This is a SQL-based introduction to relational databases. The goal is language fluency. That means writing lots of SQL code by hand, eventually without referring to the manual.  
 
 *If you cannot abide by these policies then please take another course.*
 
 ## Assignments and Course Grade
 ### Quizzes (50% of Course Grade)
-There will be five quizzes, with the lowest grade dropped from your quiz average. They will be given on the days shown in the attached schedule of classes. Quizzes are closed book and closed notes. They are designed to last about 25 minutes, though students will will be permitted to work on them up to 40 minutes. Please notify the instructor if you require extra time or support services.  
+There will be five quizzes, with the lowest grade dropped from your quiz average. They will be given on the days shown in the attached schedule of classes. Quizzes are closed book and closed notes. They are designed to last about 25 minutes, though students will be permitted to work on them up to 40 minutes. Please notify the instructor if you require extra time or support services.  
 ### Final Project (40% of Course Grade)
-The final project is meant to a demonstration that the course objectives have been met. Teams will work in teams of 2-3 students to complete a project of intermediate complexity and scope. Project details and requirements will be distributed in the 11-th week of class.
+The final project is meant to assess whether the course objectives have been met. Teams will work in teams of 2-3 students to complete a project of intermediate complexity and scope. Project details and requirements will be distributed in the 11-th week of class.
 ### Conspicuous Professionalism (10% of Course Grade)
 Given the large class enrollment, the asynchronous delivery, and technical nature of the subject, it is critical that everyone behave as a professional at all times. Students are expected to complete all lessons and participate in all activities to the best of their abilities. Cheating, free-riding, and other unprofessional behavior will not be tolerated. **If at the end of the course the professor does not know who you are or has found evidence of unprofessional behavior, then expect to get a failing professionalism score.**
 ### Grading Scale

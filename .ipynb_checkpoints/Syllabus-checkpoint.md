@@ -4,7 +4,7 @@
 *Spring 2021*
 ## Course Description
 This course introduces databases and data management in five parts:
-1. __Database terminology__, with hands-on instructions in Structured Query Language (SQL) SELECT queries needed to extract data from a relational database
+1. __Fundamentals__, with hands-on instruction in Structured Query Language (SQL) SELECT queries needed to extract data from a relational database
 2. __Data Modeling__, including normalization and diagrammming, with an emphasis on data integrity
 3. __SQL Data Definition and Data Manipulation__, with hands on practice with SQL queries (and their Python equivalents, if desired) that affect data
 4. __Business Applications__, with links to business intelligence, data warehousing, and advanced SQL and NoSQL technologies  

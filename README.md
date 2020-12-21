@@ -2,8 +2,8 @@
 <img src="https://github.com/christopherhuntley/BUAN5405-docs/blob/master/Slides/img/Dolan.png?raw=true" width="180px" align="right">
 
 _Course materials for BUAN 6510 Databases for Analytics_   
->View as [GitHub pages](https://christopherhuntley.github.io/BUAN6500/)  
->View as [GitHub repo](https://github.com/christopherhuntley/BUAN6500)    
+>View as [GitHub pages](https://christopherhuntley.github.io/BUAN6510/)  
+>View as [GitHub repo](https://github.com/christopherhuntley/BUAN6510)    
 
 ## Getting Started
 1. **Read the [syllabus](Syllabus.md)**, which covers the learning objectives and student expectations for the class. 

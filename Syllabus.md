@@ -1,6 +1,6 @@
 <img src="https://github.com/christopherhuntley/BUAN5405-docs/blob/master/Slides/img/Dolan.png?raw=true" width="180px" align="right">
 
-# BA 510 Databases for Business Analytics
+# BUAN 6510 Databases for Business Analytics
 *Spring 2021*
 ## Course Description
 This course introduces databases and data management in five parts:

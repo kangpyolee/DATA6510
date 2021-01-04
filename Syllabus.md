@@ -111,6 +111,7 @@ After scaling, the expected grade distribution is approximately:
 | **7-8** | **Data ETL**                     |            |            |
 |         | Lesson 7: SQL DDL                |            | March 21   |
 |         | Lesson 8: SQL DML                |            | March 28   |
+|         | DataCamp: Introduction to Relational Databases in SQL | | March 28 |
 |         | **_Quiz 4_**                     | March 28   | March 29   |
 | **9-12** | **Data Models**                 |            |            |
 |         | Lesson 9: BI and DW              |            | April 4    |

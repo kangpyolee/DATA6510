@@ -98,10 +98,13 @@ After scaling, the expected grade distribution is approximately:
 |         | **_Quiz 1_**                     | February 7 | February 8 |
 | **2-3** | **SQL Intro**                    |            |            |
 |         | Lesson 2: SQL Select Basics      |            | February 15|
+|         | DataCamp: Introduction to SQL    |            | February 15|
 |         | Lesson 3: SQL Select Advanced    |            | February 21|
+|         | DataCamp: Joining data in SQL    |            | February 21|
 |         | **_Quiz 2_**                     | February 21| February 22|
 | **4-6** | **Data Models**                  |            |            |
 |         | Lesson 4: Relational Models      |            | February 29|
+|         | DataCamp: Intermediate SQL       |            | March 7    |
 |         | Lesson 5: Normalization          |            | March 7    |
 |         | Lesson 6: ER Models              |            | March 13   |
 |         | **_Quiz 3_**                     | March 13   | March 14   |

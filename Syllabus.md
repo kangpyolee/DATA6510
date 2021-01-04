@@ -85,6 +85,7 @@ After scaling, the expected grade distribution is approximately:
 
 ## Schedule
 - [DataCamp](https://www.py4e.com/) exercises are assigned and tracked online. 
+- Quizzes are to be released at 8pm on the day indicated and are due by midnight the next day. However, that does not mean you can open a quiz and complete it at your leisure. They are designed to be completed in about 30 minutes from start to finish.  
 - Lessons and projects are assigned and tracked via [Google Classroom](https://classroom.google.com), with work completed in [Google Colab](https://colab.research.google.com/).
 - Quizzes and other assignments will be graded within two days of the submission deadline.
 

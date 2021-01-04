@@ -85,6 +85,7 @@ After scaling, the expected grade distribution is approximately:
 
 ## Schedule
 - [DataCamp](https://www.py4e.com/) exercises are assigned and tracked online. 
+- Quizzes are to be released at 8pm on the day indicated and are due by midnight the next day. However, that does not mean you can open a quiz and complete it at your leisure. They are designed to be completed in about 30 minutes from start to finish.  
 - Lessons and projects are assigned and tracked via [Google Classroom](https://classroom.google.com), with work completed in [Google Colab](https://colab.research.google.com/).
 - Quizzes and other assignments will be graded within two days of the submission deadline.
 
@@ -93,20 +94,24 @@ After scaling, the expected grade distribution is approximately:
 | **0**   | **Course Onboarding**            | January 25 |            | 
 |         | Lesson 0: Course Introduction    |            | February 1 |
 | **1**   | **Overview**                     |            |            |
-|         | Lesson 1: Principles             |            | February 8 |
-|         | **_Quiz 1_**                     | February 8 | February 9 |
+|         | Lesson 1: Principles             |            | February 7 |
+|         | **_Quiz 1_**                     | February 7 | February 8 |
 | **2-3** | **SQL Intro**                    |            |            |
 |         | Lesson 2: SQL Select Basics      |            | February 15|
-|         | Lesson 3: SQL Select Advanced    |            | February 22|
-|         | **_Quiz 2_**                     | February 22| February 23|
+|         | DataCamp: Introduction to SQL    |            | February 15|
+|         | Lesson 3: SQL Select Advanced    |            | February 21|
+|         | DataCamp: Joining data in SQL    |            | February 21|
+|         | **_Quiz 2_**                     | February 21| February 22|
 | **4-6** | **Data Models**                  |            |            |
 |         | Lesson 4: Relational Models      |            | February 29|
+|         | DataCamp: Intermediate SQL       |            | March 7    |
 |         | Lesson 5: Normalization          |            | March 7    |
-|         | Lesson 6: ER Models              |            | March 14   |
-|         | **_Quiz 3_**                     | March 14   | March 15   |
+|         | Lesson 6: ER Models              |            | March 13   |
+|         | **_Quiz 3_**                     | March 13   | March 14   |
 | **7-8** | **Data ETL**                     |            |            |
 |         | Lesson 7: SQL DDL                |            | March 21   |
 |         | Lesson 8: SQL DML                |            | March 28   |
+|         | DataCamp: Introduction to Relational Databases in SQL | | March 28 |
 |         | **_Quiz 4_**                     | March 28   | March 29   |
 | **9-12** | **Data Models**                 |            |            |
 |         | Lesson 9: BI and DW              |            | April 4    |

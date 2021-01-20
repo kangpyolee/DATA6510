@@ -113,7 +113,7 @@ After scaling, the expected grade distribution is approximately:
 |         | Lesson 8: SQL DML                |            | March 28   |
 |         | DataCamp: Introduction to Relational Databases in SQL | | March 28 |
 |         | **_Quiz 4_**                     | March 28   | March 29   |
-| **9-12** | **Data Models**                 |            |            |
+| **9-12** | **Beyond Just SQL**                 |            |            |
 |         | Lesson 9: BI and DW              |            | April 11    |
 |         | Lesson 10: Star Schema           |            | April 18   |
 |         | Lesson 11: NoSQL & Distributed DBMS |            | April 25   |

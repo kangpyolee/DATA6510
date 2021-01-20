@@ -115,9 +115,8 @@ After scaling, the expected grade distribution is approximately:
 |         | **_Quiz 4_**                     | March 28   | March 29   |
 | **9-12** | **Data Models**                 |            |            |
 |         | Lesson 9: BI and DW              |            | April 4    |
-|         | Lesson 10: Star Schema           |            | April 11   |
-|         | Lesson 11: NoSQL                 |            | April 18   |
-|         | Lesson 12: Distributed DBMS      |            | April 25   |
+|         | Lesson 10: Star Schema           |            | April 18   |
+|         | Lesson 11: NoSQL & Distributed DBMS |            | April 25   |
 |         | **_Quiz 5_**                     | April 25   | April 26   |
 | **13-15** | **Final Projects**             | April 18   |            |
 |         | Normalized RDBMS                 |            | May 2      |

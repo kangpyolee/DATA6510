@@ -10,8 +10,8 @@ All docs and lessons are continual works in progress.
 - [Lesson 0](https://colab.research.google.com/github/christopherhuntley/BUAN6510/blob/master/L0_Course_Onboarding.ipynb)  Course Onboarding
 - [Lesson 1](https://colab.research.google.com/github/christopherhuntley/BUAN6510/blob/master/L1_Principles.ipynb) Principles 
 - [Lesson 2](https://colab.research.google.com/github/christopherhuntley/BUAN6510/blob/master/L2_SELECT_basics.ipynb)  `SELECT` Basics
-- [Lesson 3](https://colab.research.google.com/github/christopherhuntley/BUAN6510/blob/master/L03_Conditionals.ipynb)  `SELECT` Advanced
-- [Lesson 4](https://colab.research.google.com/github/christopherhuntley/BUAN6510/blob/master/L04_Relational_Model.ipynb) The Relational Data Model
+- [Lesson 3](https://colab.research.google.com/github/christopherhuntley/BUAN6510/blob/master/L3_Conditionals.ipynb)  `SELECT` Advanced
+- [Lesson 4](https://colab.research.google.com/github/christopherhuntley/BUAN6510/blob/master/L4_Relational_Model.ipynb) The Relational Data Model
 - Lesson 5  Table Design
 - Lesson 6  Data Modeling
 - Lesson 7  SQL DDL

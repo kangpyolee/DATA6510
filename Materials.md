@@ -11,7 +11,7 @@ All docs and lessons are continual works in progress.
 - [Lesson 1](https://colab.research.google.com/github/christopherhuntley/BUAN6510/blob/master/L1_Principles.ipynb) Principles 
 - [Lesson 2](https://colab.research.google.com/github/christopherhuntley/BUAN6510/blob/master/L2_SELECT_basics.ipynb)  `SELECT` Basics
 - [Lesson 3](https://colab.research.google.com/github/christopherhuntley/BUAN5405-lessons/blob/master/L03_Conditionals.ipynb)  `SELECT` Advanced
-- Lesson 4  Relational Databases
+- [Lesson 4](https://colab.research.google.com/github/christopherhuntley/BUAN5405-lessons/blob/master/L04_Relational_Model.ipynb) The Relational Data Model
 - Lesson 5  Table Design
 - Lesson 6  Data Modeling
 - Lesson 7  SQL DDL

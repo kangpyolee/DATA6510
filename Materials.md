@@ -12,7 +12,7 @@ All docs and lessons are continual works in progress.
 - [Lesson 2](https://colab.research.google.com/github/christopherhuntley/BUAN6510/blob/master/L2_SELECT_basics.ipynb)  `SELECT` Basics
 - [Lesson 3](https://colab.research.google.com/github/christopherhuntley/BUAN6510/blob/master/L3_Conditionals.ipynb)  `SELECT` Advanced
 - [Lesson 4](https://colab.research.google.com/github/christopherhuntley/BUAN6510/blob/master/L4_Relational_Model.ipynb) The Relational Data Model
-- Lesson 5  Table Design
+- Lesson 5  Table Design and Normalization
 - Lesson 6  Data Modeling
 - Lesson 7  SQL DDL
 - Lesson 8  SQL DML

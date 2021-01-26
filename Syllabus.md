@@ -103,7 +103,7 @@ After scaling, the expected grade distribution is approximately:
 |         | DataCamp: Joining data in SQL    |            | February 21|
 |         | **_Quiz 2_**                     | February 21| February 22|
 | **4-6** | **Data Models**                  |            |            |
-|         | Lesson 4: Relational Models      |            | February 29|
+|         | Lesson 4: Relational Models      |            | February 28|
 |         | DataCamp: Intermediate SQL       |            | March 7    |
 |         | Lesson 5: Normalization          |            | March 7    |
 |         | Lesson 6: ER Models              |            | March 13   |

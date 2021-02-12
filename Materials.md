@@ -29,6 +29,6 @@ All docs and lessons are continual works in progress.
 - [Homework 6](https://docs.google.com/document/d/1qObSRDhriE4_PU6g_I007dDGt3FfxZkB8xp6Xytpkbc/edit?usp=sharing) NBA PlayLog ERD
 - [Homework 7](https://colab.research.google.com/github/christopherhuntley/BUAN6510/blob/master/HW7_IMDB_Challenge.ipynb) IMDB Challenge
 - Homework 8 NBA PlayLog Final
-- Homework 9 One Million Garment Tags DB
-- Homework 10 One Million Garment Tags DW
+- Homework 9 Garment Tags Data Lake
+- Homework 10 Garment Tags Data Warehouse
 - Final Project

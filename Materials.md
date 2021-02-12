@@ -15,7 +15,7 @@ All docs and lessons are continual works in progress.
 - [Lesson 5](https://colab.research.google.com/github/christopherhuntley/BUAN6510/blob/master/L5_Data_Integrity_Normalization.ipynb)  Table Design and Normalization
 - [Lesson 6](https://colab.research.google.com/github/christopherhuntley/BUAN6510/blob/master/L6_ER_Modeling.ipynb)  Data Modeling
 - [Lesson 7](https://colab.research.google.com/github/christopherhuntley/BUAN6510/blob/master/L7_SQL_DDL.ipynb)  SQL DDL
-- Lesson 8  SQL DML
+- [Lesson 8](https://colab.research.google.com/github/christopherhuntley/BUAN6510/blob/master/L8_SQL_DML.ipynb) SQL DML
 - Lesson 9  Business Intelligence and Data Warehousing
 - Lesson 10 Star Schema (and variations)
 - Lesson 11 NoSQL and Distributed DBMS  

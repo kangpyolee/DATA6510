@@ -27,7 +27,7 @@ All docs and lessons are continual works in progress.
 - [Homework 4](https://docs.google.com/document/d/1HBCFwO-_TqlRRA8MPy8FjeF41-v31pgG_c3H9IIv73U/edit?usp=sharing) NBA PlayLog Excel
 - [Homework 5](https://docs.google.com/document/d/1C5aOV_zPaLQ6W5qlX-yVHgSL2lHrU2bAhARu-EYxD6k/edit?usp=sharing) NBA PlayLog Normalization
 - [Homework 6](https://docs.google.com/document/d/1qObSRDhriE4_PU6g_I007dDGt3FfxZkB8xp6Xytpkbc/edit?usp=sharing) NBA PlayLog ERD
-- Homework 7 A Year of Movies
+- [Homework 7](https://colab.research.google.com/github/christopherhuntley/BUAN6510/blob/master/HW7_IMDB_Challenge.ipynb) IMDB Challenge
 - Homework 8 NBA PlayLog Final
 - Homework 9 One Million Garment Tags DB
 - Homework 10 One Million Garment Tags DW

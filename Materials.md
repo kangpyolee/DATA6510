@@ -17,7 +17,7 @@ All docs and lessons are continual works in progress.
 - [Lesson 7](https://colab.research.google.com/github/christopherhuntley/BUAN6510/blob/master/L7_SQL_DDL.ipynb)  SQL DDL
 - [Lesson 8](https://colab.research.google.com/github/christopherhuntley/BUAN6510/blob/master/L8_SQL_DML.ipynb) SQL DML
 - [Lesson 9](https://colab.research.google.com/github/christopherhuntley/BUAN6510/blob/master/L9_BI_DW.ipynb) Business Intelligence and Data Warehousing
-- [Lesson 10](https://colab.research.google.com/github/christopherhuntley/BUAN6510/blob/master/L10_Dimensional_DW.ipynb) Dimmensional Data Warehouses (and Snowflakes)
+- [Lesson 10](https://colab.research.google.com/github/christopherhuntley/BUAN6510/blob/master/L10_Dimensional_DW.ipynb) Dimensional Data Warehouses
 - Lesson 11 NoSQL and High Performance DBMS  
 
 ## Assignments

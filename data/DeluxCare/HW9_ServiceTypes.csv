@@ -1,0 +1,33 @@
+Service Code,Description
+1,blouse
+7,tuxedo pants
+17,shirt dry cleaned
+30,suit dry cleaned $500
+39,suit dry cleaned $750
+50,suit dry cleaned $1000
+60,suit dry cleaned $1000+
+107,surgical pants
+122,accessory - dry clean only
+501,shirt on hanger
+502,shirt on hanger - hand finished
+504,blouse - laundered (not dry cleaned)
+505,shirt - touched up after pressing 
+506,shirt - seersucker - hanger
+507,shirt - folded
+508,shirt - hand finished - boxed
+509,shirt - hand ironed - boxed
+511,shirt- touched up - boxed
+513,shirt- childs 
+515,shirt - jacket
+516,shirt - tuxedo on hanger
+517,shirt - tuxedo boxed
+518,shirt - pullover
+530,shirt - alteration
+531,"laundry by the lb ""laundrycare"" 1"
+534,"laundry by the lb ""laundrycare"" 2"
+561,shirt - flannel
+730,pants - alteration
+902,"Laundry by the lb ""laundrycare"" 3"
+908,"Laundry by the lb ""laundrycare"" 4"
+926,furniture covers
+1231,premium service - this is an upcharge to a garment brand or request by customer

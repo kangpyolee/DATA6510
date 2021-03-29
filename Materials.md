@@ -30,5 +30,4 @@ All docs and lessons are continual works in progress.
 - [Homework 7](https://colab.research.google.com/github/christopherhuntley/BUAN6510/blob/master/HW7_IMDB_Challenge.ipynb) IMDB Challenge
 - [Homework 8](https://colab.research.google.com/github/christopherhuntley/BUAN6510/blob/master/HW8_NBA_PlayLog_Challenge.ipynb) NBA PlayLog Final
 - [Homework 9](https://colab.research.google.com/github/christopherhuntley/BUAN6510/blob/master/HW9_Decade_Of_Laundry.ipynb) A Decade of Laundry Tags
-- Homework 10 Garment Tags Data Warehouse
 - Final Project

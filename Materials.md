@@ -16,7 +16,7 @@ All docs and lessons are continual works in progress.
 - [Lesson 6](https://colab.research.google.com/github/christopherhuntley/BUAN6510/blob/master/L6_ER_Modeling.ipynb)  Data Modeling
 - [Lesson 7](https://colab.research.google.com/github/christopherhuntley/BUAN6510/blob/master/L7_SQL_DDL.ipynb)  SQL DDL
 - [Lesson 8](https://colab.research.google.com/github/christopherhuntley/BUAN6510/blob/master/L8_SQL_DML.ipynb) SQL DML
-- [Lesson 9](https://colab.research.google.com/github/christopherhuntley/BUAN6510/blob/master/L9_Data_Pipelines) Business Intelligence and Data Warehousing
+- [Lesson 9](https://colab.research.google.com/github/christopherhuntley/BUAN6510/blob/master/L9_Data_Pipelines.ipynb) Business Intelligence and Data Warehousing
 - [Lesson 10](https://colab.research.google.com/github/christopherhuntley/BUAN6510/blob/master/L10_Dimensional_DW.ipynb) Dimensional Data Warehouses
 - [Lesson 11](https://colab.research.google.com/github/christopherhuntley/BUAN6510/blob/master/L11_NoSQL_HighPerformance_DBMS.ipynb) NoSQL and High Performance DBMS  
 

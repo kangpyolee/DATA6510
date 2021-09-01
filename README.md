@@ -1,7 +1,7 @@
 # BUAN6510
 <img src="https://github.com/christopherhuntley/BUAN5405-docs/blob/master/Slides/img/Dolan.png?raw=true" width="180px" align="right">
 
-_Course materials for BUAN 6510 Databases for Analytics_   
+_Course materials for DATA 6510 Databases for Analytics_   
 >View as [GitHub pages](https://christopherhuntley.github.io/BUAN6510/)  
 >View as [GitHub repo](https://github.com/christopherhuntley/BUAN6510)    
 
@@ -14,5 +14,5 @@ _Course materials for BUAN 6510 Databases for Analytics_
    
    If you find that this class isn't for you then please consult with Phil Maymin at `pmaymin@fairfield.edu` or Leanne De Los Santos at `ldelossantos@fairfield.edu` to find a better fit for you. 
 3. **Complete Lesson 0 by February 1.**
-    * Open [Lesson 0](https://colab.research.google.com/github/christopherhuntley/BUAN6510/blob/master/L0_Course_Onboarding.ipynb) in Google Colab. (Just right-click the link to open in a new tab.)
+    * Open [Lesson 0](https://colab.research.google.com/github/christopherhuntley/DATA6510/blob/master/L0_Course_Onboarding.ipynb) in Google Colab. (Just right-click the link to open in a new tab.)
     * Follow directions given there to complete the course onboarding process. 

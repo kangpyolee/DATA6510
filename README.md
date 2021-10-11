@@ -13,6 +13,6 @@ _Course materials for DATA 6510 Databases for Analytics_
    * Want to learn just enough SQL and general database skill to feed your analytical models with _just the right data_? Then yes, this might be the class for you. 
    
    If you find that this class isn't for you then please consult with Phil Maymin at `pmaymin@fairfield.edu` or Leanne De Los Santos at `ldelossantos@fairfield.edu` to find a better fit for you. 
-3. **Complete Lesson 0 by February 1.**
+3. **Complete Lesson 0 by November 1.**
     * Open [Lesson 0](https://colab.research.google.com/github/christopherhuntley/DATA6510/blob/master/L0_Course_Onboarding.ipynb) in Google Colab. (Just right-click the link to open in a new tab.)
     * Follow directions given there to complete the course onboarding process. 

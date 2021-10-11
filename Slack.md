@@ -7,7 +7,7 @@ To join Slack, go to https://fairfield-dolan.slack.com/ and login with your @stu
 When you're ready, you may need to be added to the course channel for this course. The initial course roster will already be pre-loaded, so if you were on that, you should be able to already see the #buan6510 channel. Go there for more info and next steps. If you do not see that channel, please send a direct message on Slack to @Yue Pu telling her that you need to be added to the `#buan6510` channel.
 
 Some basic Slack etiquette:
-1.  **Whenever possible, try to respond within a thread*, or if it is a top-level message, start a new thread to respond (it's the little cartoon speech bubble looking icon between the add-emoji and share-message buttons).
+1.  **Whenever possible, try to respond within a thread**, or if it is a top-level message, start a new thread to respond (it's the little cartoon speech bubble looking icon between the add-emoji and share-message buttons).
 2.  Rather than DM'ing instructors and other students, **try to keep most messages within the course channel** so that we all benefit from the common discussion.
 3.  Change your notification settings to match what you prefer, but do **try to check in on Slack frequently**. Asynchronous communication is fine, but one of the fun parts of Slack is you might engage with others about an interesting topic at a weird time of day or night, just because you all happen to be on at the same time.
 4.  **Be respectful.** It's surprisingly easy to misinterpret someone's typed words. Assume good intent from others and have good intent yourself.

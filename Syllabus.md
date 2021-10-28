@@ -106,7 +106,7 @@ After scaling, the expected grade distribution is approximately:
 |         | Lesson 4: Relational Models      |            | November 20|
 |         | Lesson 5: Normalization          |            | November 20|
 |         | Lesson 6: ER Models              |            | November 20   |
-|         | **_Quiz 3_**                     | November  30  | December 2   |
+|         | **_Quiz 3_**                     | November  28  | November 30   |
 | **7-8** | **Data ETL**                     |            |            |
 |         | Lesson 7: SQL DDL                |            | December 2   |
 |         | Lesson 8: SQL DML                |            | December 2  |

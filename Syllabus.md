@@ -116,9 +116,9 @@ After scaling, the expected grade distribution is approximately:
 |         | Lesson 9: BI and DW              |            | **December 4**    |
 |         | Lesson 10: Star Schema           |            | **December 4**   |
 |         | Lesson 11: NoSQL & Distributed DBMS |            | **December  4**   |
-|         | *Project Workshop* | | December 9 |
 |         | **_Quiz 5_**                     | December 5   | December 7   |
 | **6** | **Final Projects**             | December 2   |            |
+|         | *Project Workshop* | | December 9 |
 |         | Normalized RDBMS                 |            | **December 11**      |
 |         | Data Warehouse (star schema)     |            | **December 11**      |
 |         | Final notebook submissions       |            | December 15     |

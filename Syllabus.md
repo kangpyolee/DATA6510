@@ -1,6 +1,6 @@
 <img src="https://github.com/christopherhuntley/BUAN5405-docs/blob/master/Slides/img/Dolan.png?raw=true" width="180px" align="right">
 
-# BUAN 6510 Databases for Business Analytics
+# DATA 6510 Databases for Business Analytics
 *Spring 2021*
 ## Course Description
 This course introduces databases and data management in five parts:
@@ -41,7 +41,7 @@ Email: chuntley@fairfield.edu (please use sparingly)
 * **Reference Docs:** The official [MySQL Manual](https://dev.mysql.com/doc/refman/5.7/en) covers the MySQL server and coding. SQLite is covered [here](https://www.sqlite.org/docs.html). When in doubt, [RTFM](https://en.wikipedia.org/wiki/RTFM).
 * **Hardware:** All work is online, in the cloud. However, please be aware that even cloud-based software can use up significant system resources. It is also generally better to have a large screen, keyboard, and mouse setup. Some things can be done on touch-based devices but it's not ideal. 
 * **Websites:**  
-    * Class documents (including this syllabus, lesson notebooks, and data files) are in [Dr. Huntley's BUAN6510 GitHub repository](https://github.com/christopherhuntley/BUAN6510).
+    * Class documents (including this syllabus, lesson notebooks, and data files) are in [Dr. Huntley's DATA6510 GitHub repository](https://github.com/christopherhuntley/DATA6510).
     * Coding assignments are posted and submitted though [GitHub Classroom](https://classroom.github.com).
 
 ## Student Expectations
@@ -91,38 +91,36 @@ After scaling, the expected grade distribution is approximately:
 
 | Weeks   | Topic/Assignment                 |    Release | Deadline   |
 | :--:    |----------------------------------|   -------: |  --------: |
-| **0**   | **Course Onboarding**            | January 25 |            | 
-|         | Lesson 0: Course Introduction    |            | February 1 |
+| **0**   | **Course Onboarding**            | October 29 |            | 
+|         | Lesson 0: Course Introduction    |            | November 1 |
 | **1**   | **Overview**                     |            |            |
-|         | Lesson 1: Principles             |            | February 7 |
-|         | **_Quiz 1_**                     | February 7 | February 8 |
+|         | Lesson 1: Principles             |            | November 4 |
+|         | **_Quiz 1_**                     | November 5 | November 7 |
 | **2-3** | **SQL Intro**                    |            |            |
-|         | Lesson 2: SQL Select Basics      |            | February 15|
-|         | DataCamp: Introduction to SQL    |            | February 15|
-|         | Lesson 3: SQL Select Advanced    |            | February 21|
-|         | DataCamp: Joining data in SQL    |            | February 21|
-|         | **_Quiz 2_**                     | February 21| February 22|
+|         | Lesson 2: SQL Select Basics      |            | November 11|
+|         | DataCamp: Introduction to SQL    |            | November 11|
+|         | Lesson 3: SQL Select Advanced    |            | November 18|
+|         | DataCamp: Joining data in SQL    |            | November 18|
+|         | **_Quiz 2_**                     | November 18| November 19|
 | **4-6** | **Data Models**                  |            |            |
-|         | Lesson 4: Relational Models      |            | February 28|
-|         | DataCamp: Intermediate SQL       |            | March 7    |
-|         | Lesson 5: Normalization          |            | March 7    |
-|         | Lesson 6: ER Models              |            | March 14   |
-|         | **_Quiz 3_**                     | March 14   | March 15   |
+|         | Lesson 4: Relational Models      |            | November 20|
+|         | Lesson 5: Normalization          |            | November 20|
+|         | Lesson 6: ER Models              |            | November 20   |
+|         | **_Quiz 3_**                     | November  30  | December 2   |
 | **7-8** | **Data ETL**                     |            |            |
-|         | Lesson 7: SQL DDL                |            | March 21   |
-|         | Lesson 8: SQL DML                |            | March 28   |
-|         | DataCamp: Introduction to Relational Databases in SQL | | March 28 |
-|         | **_Quiz 4_**                     | March 28   | March 29   |
+|         | Lesson 7: SQL DDL                |            | December 2   |
+|         | Lesson 8: SQL DML                |            | December 4  |
 | **9-12** | **Beyond Just SQL**                 |            |            |
-|         | Lesson 9: BI and DW              |            | April 11    |
-|         | Lesson 10: Star Schema           |            | April 18   |
-|         | Lesson 11: NoSQL & Distributed DBMS |            | April 25   |
-|         | **_Quiz 5_**                     | April 25   | April 26   |
-| **13-15** | **Final Projects**             | April 18   |            |
-|         | Normalized RDBMS                 |            | May 2      |
-|         | Data Warehouse (star schema)     |            | May 9      |
-|         | Final notebook submissions       |            | May 14     |
-|         | **_Final Presentations_**        |            | May 15     |
+|         | Lesson 9: BI and DW              |            | December 4    |
+|         | Lesson 10: Star Schema           |            | December 4   |
+|         | **_Quiz 4_**                     | December 7 | December 9   |
+|         | Lesson 11: NoSQL & Distributed DBMS |            | December  9   |
+|         | **_Quiz 5_**                     | December 9   | December 11   |
+| **13-15** | **Final Projects**             | December 4   |            |
+|         | Normalized RDBMS                 |            | December 11      |
+|         | Data Warehouse (star schema)     |            | December 11      |
+|         | Final notebook submissions       |            | December 15     |
+|         | **_Final Presentations_**        |            | December 16     |
 
 
 

@@ -32,7 +32,8 @@ Dolan School of Business, DSBN 205E
 Email: chuntley@fairfield.edu (please use sparingly) 
 
 ## Office Hours
-* When needed we will have Sunday evening Zoom workshops
+* Class time will be used like office hours, with lots of time devoted to completing homework
+* If you need 1-on-1 time then book an appointment here: https://calendly.com/christopher-huntley
 * Usually, however, it is best to contact Dr. Huntley directly on Slack, with general questions in the #buan6510 channel or more confidential requests in a direct message
 
 ## Resources

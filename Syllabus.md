@@ -58,7 +58,7 @@ This is a graduate class intended for serious professionals:
 ### Quizzes (50% of Course Grade)
 There will be five quizzes, with the lowest grade dropped from your quiz average. They will be given on the days shown in the attached schedule of classes. Quizzes are closed book and closed notes. They are designed to last about 25 minutes, though students will be permitted to work on them up to 40 minutes. Please notify the instructor if you require extra time or support services.  
 ### Final Project (40% of Course Grade)
-The final project is meant to assess whether the course objectives have been met. Teams will work in teams of 2-3 students to complete a project of intermediate complexity and scope. Project details and requirements will be distributed in the 11-th week of class.
+The final project is meant to assess whether the course objectives have been met. Teams will work in teams of 2-3 students to complete a project of intermediate complexity and scope. Project details and requirements will be distributed at the start of module 5.
 ### Conspicuous Professionalism (10% of Course Grade)
 Given the large class enrollment, the asynchronous delivery, and technical nature of the subject, it is critical that everyone behave as a professional at all times. Students are expected to complete all lessons and participate in all activities to the best of their abilities. Cheating, free-riding, and other unprofessional behavior will not be tolerated. **If at the end of the course the professor does not know who you are or has found evidence of unprofessional behavior, then expect to get a failing professionalism score.**
 ### Grading Scale
@@ -118,7 +118,7 @@ After scaling, the expected grade distribution is approximately:
 |         | Lesson 11: NoSQL & Distributed DBMS |            | **December  4**   |
 |         | *Project Workshop* | | December 9 |
 |         | **_Quiz 5_**                     | December 9   | December 11   |
-| **6** | **Final Projects**             | December 4   |            |
+| **6** | **Final Projects**             | December 2   |            |
 |         | Normalized RDBMS                 |            | **December 11**      |
 |         | Data Warehouse (star schema)     |            | **December 11**      |
 |         | Final notebook submissions       |            | December 15     |

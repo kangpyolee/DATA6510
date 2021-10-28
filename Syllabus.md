@@ -89,11 +89,10 @@ After scaling, the expected grade distribution is approximately:
 - Lessons and projects are assigned and tracked via [Google Classroom](https://classroom.google.com), with work completed in [Google Colab](https://colab.research.google.com/).
 - Quizzes and other assignments will be graded within two days of the submission deadline.
 
-| Weeks   | Topic/Assignment                 |    Release | Deadline   |
+| Week   | Topic/Assignment                 |    Release | Due Date   |
 | :--:    |----------------------------------|   -------: |  --------: |
-| **0**   | **Course Onboarding**            | October 29 |            | 
-|         | Lesson 0: Course Introduction    |            | November 1 |
-| **1**   | **Overview**                     |            |            |
+|    **1**     | Lesson 0: Course Introduction    |            | November 1 |
+|    | **Overview**                     |            |            |
 |         | Lesson 1: Principles             |            | November 4 |
 |         | **_Quiz 1_**                     | November 5 | November 7 |
 | **2-3** | **SQL Intro**                    |            |            |
@@ -102,22 +101,22 @@ After scaling, the expected grade distribution is approximately:
 |         | Lesson 3: SQL Select Advanced    |            | November 18|
 |         | DataCamp: Joining data in SQL    |            | November 18|
 |         | **_Quiz 2_**                     | November 18| November 19|
-| **4-6** | **Data Models**                  |            |            |
+| **4** | **Data Models**                  |            |            |
 |         | Lesson 4: Relational Models      |            | November 20|
 |         | Lesson 5: Normalization          |            | November 20|
 |         | Lesson 6: ER Models              |            | November 20   |
 |         | **_Quiz 3_**                     | November  28  | November 30   |
-| **7-8** | **Data ETL**                     |            |            |
+| **5** | **Data ETL**                     |            |            |
 |         | Lesson 7: SQL DDL                |            | December 2   |
 |         | Lesson 8: SQL DML                |            | December 2  |
 |         | **_Quiz 4_**                     | December 2 | December 4   |
-| **9-12** | **Beyond Just SQL**                 |            |            |
+| **6** | **Beyond Just SQL**                 |            |            |
 |         | Lesson 9: BI and DW              |            | December 4    |
 |         | Lesson 10: Star Schema           |            | December 4   |
 |         | Lesson 11: NoSQL & Distributed DBMS |            | December  4   |
 |         | *Project Workshop* | | December 9 |
 |         | **_Quiz 5_**                     | December 9   | December 11   |
-| **13-15** | **Final Projects**             | December 4   |            |
+| **7** | **Final Projects**             | December 4   |            |
 |         | Normalized RDBMS                 |            | December 11      |
 |         | Data Warehouse (star schema)     |            | December 11      |
 |         | Final notebook submissions       |            | December 15     |

@@ -34,7 +34,7 @@ Email: chuntley@fairfield.edu (please use sparingly)
 ## Office Hours
 * Class time will be used like office hours, with lots of time devoted to completing homework
 * If you need 1-on-1 time then book an appointment here: https://calendly.com/christopher-huntley
-* Usually, however, it is best to contact Dr. Huntley directly on Slack, with general questions in the #buan6510 channel or more confidential requests in a direct message
+* Usually, however, it is best to contact Dr. Huntley directly on Slack, with general questions in the #data6510 channel or more confidential requests in a direct message
 
 ## Resources
 * **Online Tutorials:** [DataCamp](https://www.datacamp.com)'s online SQL courses plus a few bespoke case projects designed to accompany the lectures.

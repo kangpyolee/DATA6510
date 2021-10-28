@@ -109,12 +109,13 @@ After scaling, the expected grade distribution is approximately:
 |         | **_Quiz 3_**                     | November  30  | December 2   |
 | **7-8** | **Data ETL**                     |            |            |
 |         | Lesson 7: SQL DDL                |            | December 2   |
-|         | Lesson 8: SQL DML                |            | December 4  |
+|         | Lesson 8: SQL DML                |            | December 2  |
+|         | **_Quiz 4_**                     | December 2 | December 4   |
 | **9-12** | **Beyond Just SQL**                 |            |            |
 |         | Lesson 9: BI and DW              |            | December 4    |
 |         | Lesson 10: Star Schema           |            | December 4   |
-|         | **_Quiz 4_**                     | December 7 | December 9   |
-|         | Lesson 11: NoSQL & Distributed DBMS |            | December  9   |
+|         | Lesson 11: NoSQL & Distributed DBMS |            | December  4   |
+|         | *Project Workshop* | | December 9 |
 |         | **_Quiz 5_**                     | December 9   | December 11   |
 | **13-15** | **Final Projects**             | December 4   |            |
 |         | Normalized RDBMS                 |            | December 11      |

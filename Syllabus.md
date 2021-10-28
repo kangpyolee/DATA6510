@@ -91,8 +91,8 @@ After scaling, the expected grade distribution is approximately:
 
 | Week   | Topic/Assignment                 |    Release | Due Date   |
 | :--:    |----------------------------------|   -------: |  --------: |
-|    **1**     | Lesson 0: Course Introduction    |            | November 1 |
-|    | **Overview**                     |            |            |
+|    **1**     | **Preliminaries** |  | |
+|              | Lesson 0: Course Introduction    |            | November 1 | 
 |         | Lesson 1: Principles             |            | November 4 |
 |         | **_Quiz 1_**                     | November 5 | November 7 |
 | **2-3** | **SQL Intro**                    |            |            |

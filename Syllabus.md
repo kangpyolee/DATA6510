@@ -89,37 +89,38 @@ After scaling, the expected grade distribution is approximately:
 - Quizzes are to be released at 8pm on the day indicated and are due by midnight in the indicated day. However, that does not mean you can open a quiz and complete it at your leisure. They are designed to be completed in about 30 minutes from start to finish. You are on your honor to follow the rules here. 
 - Lessons and projects are assigned and tracked via [Google Classroom](https://classroom.google.com), with work completed in [Google Colab](https://colab.research.google.com/).
 - Quizzes and other assignments will be graded within two days of the submission deadline.
+- Saturday class meetings are indicated in **bold**. 
 
-| Week   | Topic/Assignment                 |    Release | Due Date   |
+| Module   | Topic/Assignment                 |    Release | Due Date   |
 | :--:    |----------------------------------|   -------: |  --------: |
 |    **1**     | **Preliminaries** |  | |
 |              | Lesson 0: Course Introduction    |            | November 1 | 
 |         | Lesson 1: Principles             |            | November 4 |
 |         | **_Quiz 1_**                     | November 5 | November 7 |
-| **2-3** | **SQL Intro**                    |            |            |
+| **2** | **SQL Intro**                    |            |            |
 |         | Lesson 2: SQL Select Basics      |            | November 11|
 |         | DataCamp: Introduction to SQL    |            | November 11|
 |         | Lesson 3: SQL Select Advanced    |            | November 18|
 |         | DataCamp: Joining data in SQL    |            | November 18|
 |         | **_Quiz 2_**                     | November 18| November 19|
-| **4** | **Data Models**                  |            |            |
-|         | Lesson 4: Relational Models      |            | November 20|
-|         | Lesson 5: Normalization          |            | November 20|
-|         | Lesson 6: ER Models              |            | November 20   |
+| **3** | **Data Models**                  |            |            |
+|         | Lesson 4: Relational Models      |            | **November 20**|
+|         | Lesson 5: Normalization          |            | **November 20**|
+|         | Lesson 6: ER Models              |            | **November 20**   |
 |         | **_Quiz 3_**                     | November  28  | November 30   |
-| **5** | **Data ETL**                     |            |            |
+| **4** | **Data ETL**                     |            |            |
 |         | Lesson 7: SQL DDL                |            | December 2   |
 |         | Lesson 8: SQL DML                |            | December 2  |
 |         | **_Quiz 4_**                     | December 2 | December 4   |
-| **6** | **Beyond Just SQL**                 |            |            |
-|         | Lesson 9: BI and DW              |            | December 4    |
-|         | Lesson 10: Star Schema           |            | December 4   |
-|         | Lesson 11: NoSQL & Distributed DBMS |            | December  4   |
+| **5** | **Beyond Just SQL**                 |            |            |
+|         | Lesson 9: BI and DW              |            | **December 4**    |
+|         | Lesson 10: Star Schema           |            | **December 4**   |
+|         | Lesson 11: NoSQL & Distributed DBMS |            | **December  4**   |
 |         | *Project Workshop* | | December 9 |
 |         | **_Quiz 5_**                     | December 9   | December 11   |
-| **7** | **Final Projects**             | December 4   |            |
-|         | Normalized RDBMS                 |            | December 11      |
-|         | Data Warehouse (star schema)     |            | December 11      |
+| **6** | **Final Projects**             | December 4   |            |
+|         | Normalized RDBMS                 |            | **December 11**      |
+|         | Data Warehouse (star schema)     |            | **December 11**      |
 |         | Final notebook submissions       |            | December 15     |
 |         | **_Final Presentations_**        |            | December 16     |
 

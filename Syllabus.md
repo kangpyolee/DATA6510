@@ -1,7 +1,7 @@
 <img src="https://github.com/christopherhuntley/BUAN5405-docs/blob/master/Slides/img/Dolan.png?raw=true" width="180px" align="right">
 
 # DATA 6510 Databases for Business Analytics
-*Fall 2021*
+*Spring 2021*
 ## Course Description
 This course introduces databases and data management in five parts:
 1. __Fundamentals__, with hands-on instruction in Structured Query Language (SQL) SELECT queries needed to extract data from a relational database
@@ -89,40 +89,39 @@ After scaling, the expected grade distribution is approximately:
 - Quizzes are to be released at 8pm on the day indicated and are due by midnight in the indicated day. However, that does not mean you can open a quiz and complete it at your leisure. They are designed to be completed in about 30 minutes from start to finish. You are on your honor to follow the rules here. 
 - Lessons and projects are assigned and tracked via [Google Classroom](https://classroom.google.com), with work completed in [Google Colab](https://colab.research.google.com/).
 - Quizzes and other assignments will be graded within two days of the submission deadline.
-- Saturday class meetings are indicated in **bold**. 
 
 | Module   | Topic/Assignment                 |    Release | Due Date   |
 | :--:    |----------------------------------|   -------: |  --------: |
 |    **1**     | **Preliminaries** |  | |
-|              | Lesson 0: Course Introduction    |            | November 1 | 
-|         | Lesson 1: Principles             |            | November 4 |
-|         | **_Quiz 1_**                     | November 5 | November 7 |
+|              | Lesson 0: Course Introduction    |            | January 26 | 
+|         | Lesson 1: Principles             |            | January 20 |
+|         | **_Quiz 1_**                     | January 23 | January 24 |
 | **2** | **SQL Intro**                    |            |            |
-|         | Lesson 2: SQL Select Basics      |            | November 11|
-|         | DataCamp: Introduction to SQL    |            | November 11|
-|         | Lesson 3: SQL Select Advanced    |            | November 18|
-|         | DataCamp: Joining data in SQL    |            | November 18|
-|         | **_Quiz 2_**                     | November 18| November 19|
+|         | Lesson 2: SQL Select Basics      |            | January 27|
+|         | DataCamp: Introduction to SQL    |            | January 27|
+|         | Lesson 3: SQL Select Advanced    |            | February 3|
+|         | DataCamp: Joining data in SQL    |            | February 3|
+|         | **_Quiz 2_**                     | February 6 | February 7|
 | **3** | **Data Models**                  |            |            |
-|         | Lesson 4: Relational Models      |            | **November 20**|
-|         | Lesson 5: Normalization          |            | **November 20**|
-|         | Lesson 6: ER Models              |            | **November 20**   |
-|         | **_Quiz 3_**                     | November  28  | November 30   |
+|         | Lesson 4: Relational Models      |            | February 10 |
+|         | Lesson 5: Normalization          |            | February 17|
+|         | Lesson 6: ER Models              |            | February 24   |
+|         | **_Quiz 3_**                     | February 27 | February 28   |
 | **4** | **Data ETL**                     |            |            |
-|         | Lesson 7: SQL DDL                |            | December 2   |
-|         | Lesson 8: SQL DML                |            | December 2  |
-|         | **_Quiz 4_**                     | December 2 | December 4   |
+|         | Lesson 7: SQL DDL                |            | March 3   |
+|         | Lesson 8: SQL DML                |            | March 10  |
+|         | **_Quiz 4_**                     | March 20 | March 21   |
 | **5** | **Beyond Just SQL**                 |            |            |
-|         | Lesson 9: BI and DW              |            | **December 4**    |
-|         | Lesson 10: Star Schema           |            | **December 4**   |
-|         | Lesson 11: NoSQL & Distributed DBMS |            | **December  4**   |
-|         | **_Quiz 5_**                     | December 5   | December 7   |
-| **6** | **Final Projects**             | December 2   |            |
+|         | Lesson 9: BI and DW              |            | March 24    |
+|         | Lesson 10: Star Schema           |            | March 31   |
+|         | Lesson 11: NoSQL & Distributed DBMS |            | April 7   |
+|         | **_Quiz 5_**                     | April 10   | April 11  |
+| **6** | **Final Projects**             | April 10   |            |
 |         | *Project Workshop* | | December 9 |
-|         | Normalized RDBMS                 |            | **December 11**      |
-|         | Data Warehouse (star schema)     |            | **December 11**      |
-|         | Final notebook submissions       |            | December 15     |
-|         | **_Final Presentations_**        |            | December 16     |
+|         | Normalized RDBMS                 |            | April 21    |
+|         | Data Warehouse (star schema)     |            | April 28   |
+|         | Final notebook submissions       |            | May 1     |
+|         | **_Final Presentations_**        |            | May 5     |
 
 
 

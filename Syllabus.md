@@ -117,7 +117,6 @@ After scaling, the expected grade distribution is approximately:
 |         | Lesson 11: NoSQL & Distributed DBMS |            | April 7   |
 |         | **_Quiz 5_**                     | April 10   | April 11  |
 | **6** | **Final Projects**             | April 10   |            |
-|         | *Project Workshop* | | December 9 |
 |         | Normalized RDBMS                 |            | April 21    |
 |         | Data Warehouse (star schema)     |            | April 28   |
 |         | Final notebook submissions       |            | May 1     |

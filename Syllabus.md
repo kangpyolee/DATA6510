@@ -85,37 +85,38 @@ After scaling, the expected grade distribution is approximately:
 
 ## Schedule
 - [DataCamp](https://www.py4e.com/) exercises are assigned and tracked online. 
-- Quizzes are to be released at 8pm on the day indicated and are due by midnight in the indicated day. However, that does not mean you can open a quiz and complete it at your leisure. They are designed to be completed in about 30 minutes from start to finish. You are on your honor to follow the rules here. 
+- Starting with Lesson 2, you are expected to **read each lesson before coming to class** and then **read it again after class**.   
+- Quizzes are to completed by **7:15pm on the date given**. If you need more time (or have a work conflict), then Slack DM the instructor to start early. You are on your honor to keep the quiz to yourself. 
 - Lessons and projects are assigned and tracked via [Google Classroom](https://classroom.google.com), with work completed in [Google Colab](https://colab.research.google.com/).
 - Quizzes and other assignments will be graded within two days of the submission deadline.
 
-| Module   | Topic/Assignment                |    Release | Due Date   |
-| :--:    |----------------------------------|   -------: |  --------: |
-| **1**   | **Databases**                    |            |            |
-|         | Lesson 0: Course Onboarding      | September 4 | September 6 (in class) | 
-|         | Lesson 1: Principles             |            | September 11 |
-|         | Lesson 2: SQL Select Basics      |            | September 13 |
-|         | DataCamp: Introduction to SQL    |            | September 13|
-|         | Lesson 3: SQL Select Advanced    |            | September 20|
-|         | DataCamp: Joining data in SQL    |            | September 20|
-|         | **_Quiz 1_**                     | Septmeber 24 | September 25|
-| **2**   | **Data Models**                  |            |            |
-|         | Lesson 4: Relational Models      |            | October 4  |
-|         | DataCamp: Intermediate SQL       |            | October 4  |
-|         | Lesson 5: ER Models              |            | October 18   |
-|         | **_Quiz 2_**                     | October 23 | October 24   |
-| **3**   | **Data Warehouses**              |            |            |
-|         | Lesson 6: BI & DW                |            | October 25   |
-|         | Lesson 7: Star Schema            |            | November 1   |
-|         | **_Quiz 3_**                     | November 6 | November 7   |
-| **4**   | **Data Visualization**           |            |            |
-|         | Lesson 8: Analytical Framing     |            | November 8    |
-|         | Lesson 9: Visual Design          |            | November 15   |
-|         | Lesson 10: Data Storytelling     |            | November 22   |
-|         | **_Quiz 4_**                     | November 27 | November 28  |
-| **5**   | **Final Projects**               | November 29 |  December 13 |
-|         | Final notebook submissions       |            | December 11     |
-|         | **_Final Presentations_**        |            | December 13     |
+| Module   | Topic/Assignment                | Due Date   |
+| :--:    |----------------------------------|  --------: |
+| **1**   | **Databases**                    |            |
+|         | Lesson 0: Course Onboarding      | September 6 (in class) | 
+|         | Lesson 1: Principles             | September 11 |
+|         | Lesson 2: SQL Select Basics      | September 13 |
+|         | DataCamp: Introduction to SQL    | September 13 |
+|         | Lesson 3: SQL Select Advanced    | September 20 |
+|         | DataCamp: Joining data in SQL    | September 20|
+|         | **_Quiz 1_**                     | September 27 (in class) |
+| **2**   | **Data Models**                  |            |
+|         | Lesson 4: Relational Models      | September 27 |
+|         | DataCamp: Intermediate SQL       | October 4  |
+|         | Lesson 5: ER Models              | October 18   |
+|         | **_Quiz 2_**                     | October 25 (in class)  |
+| **3**   | **Data Warehouses**              |            |
+|         | Lesson 6: BI & DW                | October 25   |
+|         | Lesson 7: Star Schema            | November 1   |
+|         | **_Quiz 3_**                     | November 8 (in class)  |
+| **4**   | **Data Visualization**           |            |
+|         | Lesson 8: Analytical Framing     | November 8    |
+|         | Lesson 9: Visual Design          | November 15   |
+|         | Lesson 10: Data Storytelling     | November 22   |
+|         | **_Quiz 4_**                     | November 29 (in class) |
+| **5**   | **Final Projects**               |                 |
+|         | Final notebook submissions       | December 11     |
+|         | **_Final Presentations_**        | December 13     |
 
 
 

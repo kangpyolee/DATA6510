@@ -15,7 +15,7 @@ This course introduces databases and data management in five parts:
 ## Desiderata
 
 ### Course Goals / Theory
-### Be able to explain ...
+#### Be able to explain ...
 * Fundamentals of database technology and relevant theory
 * Syntax, structure, and execution of SQL SELECT queries
 * The relational database model and its implications
@@ -23,7 +23,7 @@ This course introduces databases and data management in five parts:
 * Visualization models and data storytelling
 
 ### Learning Objectives / Practice
-### Know how to ...
+#### Know how to ...
 * Write, validate, and debug SQL queries of moderate complexity
 * Read and interpet entity relationship models
 * Build database backed visualization models

@@ -44,7 +44,7 @@ Email: chuntley@fairfield.edu (please use sparingly)
 * **Online Tutorials:** [DataCamp](https://www.datacamp.com)'s online SQL courses plus a few bespoke case projects designed to accompany the lectures.
 * **Software:** Slack (communications), Google Colab (editor & runtime environment), various cloud-based database servers, SQLite (file-based RDB), Lucidchart (diagramming tool), Google Data Studio (data visualization), and Google Classroom (for assignments).
 * **Hardware:** All work is online, in the cloud. However, please be aware that even cloud-based software can use up significant system resources. It is also generally better to have a large screen, keyboard, and mouse setup. Some things can be done on touch-based devices but it's not ideal. 
-* **Website:** Lessons and assignments are posted and submitted though [GitHub Classroom](https://classroom.github.com).
+* **Website:** Lessons and assignments are posted and submitted though [Google Classroom](https://classroom.google.com).
 
 ## Student Expectations
 This is a graduate class intended for serious professionals:

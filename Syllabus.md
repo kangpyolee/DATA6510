@@ -26,6 +26,7 @@ This course introduces databases and data management in five parts:
 #### Know how to ...
 * Write, validate, and debug SQL queries of moderate complexity
 * Read and interpet entity relationship models
+* Extract and integrate data from data warehouses
 * Build database backed visualization models
 
 ## Instructor

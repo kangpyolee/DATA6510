@@ -96,7 +96,7 @@ After scaling, the expected grade distribution is approximately:
 | :--:    |----------------------------------|  --------: |
 | **1**   | **Databases**                    |            |
 |         | Lesson 0: Course Onboarding      | September 6 (in class) | 
-|         | Lesson 1: Data Architecture      | September 11 |
+|         | Lesson 1: Database Systems       | September 11 |
 |         | Lesson 2: SQL Select Basics      | September 13 |
 |         | DataCamp: Introduction to SQL    | September 13 |
 |         | Lesson 3: SQL Select Advanced    | September 20 |

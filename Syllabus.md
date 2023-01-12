@@ -96,30 +96,31 @@ After scaling, the expected grade distribution is approximately:
 | Module   | Topic/Assignment                | Due Date   |
 | :--:    |----------------------------------|  --------: |
 | **1**   | **Databases**                    |            |
-|         | Lesson 0: Course Onboarding      | September 6 (in class) | 
-|         | Lesson 1: Database Systems       | September 11 |
-|         | Lesson 2: SQL Select Basics      | September 13 |
-|         | DataCamp: Introduction to SQL    | September 13 |
-|         | Lesson 3: SQL Select Advanced    | September 20 |
-|         | DataCamp: Joining data in SQL    | September 20|
-|         | **_Quiz 1_**                     | September 27 (in class) |
+|         | Lesson 0: Course Onboarding      | January 19 (in class) | 
+|         | Lesson 1: Database Systems       | January 24 |
+|         | Lesson 2: SQL Select Basics      | January 24 |
+|         | DataCamp: Introduction to SQL    | January 24 |
+|         | Lesson 3: SQL Select Advanced    | February 2 |
+|         | DataCamp: Joining data in SQL    | February 2 |
+|         | **_Quiz 1_**                     | February 9 (in class) |
 | **2**   | **Data Models**                  |            |
-|         | Lesson 4: Relational Models      | September 27 |
-|         | DataCamp: Intermediate SQL       | October 4  |
-|         | Lesson 5: ER Models              | October 18   |
-|         | **_Quiz 2_**                     | October 25 (in class)  |
+|         | Lesson 4: Relational Models      | February 9 |
+|         | DataCamp: Intermediate SQL       | February 12  |
+|         | Lesson 5: ER Models              | February 16   |
+|         | **_Quiz 2_**                     | February 23 (in class)  |
 | **3**   | **Data Warehouses**              |            |
-|         | Lesson 6: BI & DW                | October 25   |
-|         | Lesson 7: Star Schema            | November 1   |
-|         | **_Quiz 3_**                     | November 8 (in class)  |
+|         | Lesson 6: BI & DW                | February 23   |
+|         | Lesson 7: Star Schema            | March 2   |
+|         | Lesson 8: Collection Types       | March 9   |
+|         | **_Quiz 3_**                     | March 23 (in class)  |
 | **4**   | **Data Visualization**           |            |
-|         | Lesson 8: Analytical Framing     | November 8    |
-|         | Lesson 9: Visual Design          | November 15   |
-|         | Lesson 10: Data Storytelling     | November 22   |
-|         | **_Quiz 4_**                     | November 29 (in class) |
+|         | Lesson 9: Analytical Framing     | March 23    |
+|         | Lesson 10: Visual Design         | March 30    |
+|         | Lesson 11: Data Storytelling     | April 13   |
+|         | **_Quiz 4_**                     | April 20 (in class) |
 | **5**   | **Final Projects**               |                 |
-|         | Final notebook submissions       | December 11     |
-|         | **_Final Presentations_**        | December 13     |
+|         | Final notebook submissions       | May 2     |
+|         | **_Final Presentations_**        | May 4     |
 
 
 

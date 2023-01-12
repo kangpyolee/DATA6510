@@ -1,7 +1,7 @@
 <img src="https://github.com/christopherhuntley/BUAN5405-docs/blob/master/Slides/img/Dolan.png?raw=true" width="180px" align="right">
 
 # DATA 6510 Data Warehousing and Visualization
-*Fall 2022*
+*Spring 2023*
 ## Course Description
 This course introduces databases and data management in five parts:
 1. __Databases__, with hands-on instruction in Structured Query Language (SQL) SELECT queries needed to extract data from a relational database

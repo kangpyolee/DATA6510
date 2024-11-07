@@ -1,0 +1,5 @@
+term: Fall2019
+term-year: 2019
+holiday-rules:
+  - {start-dt: '2019-10-14T00:00', end-dt: '2019-10-15T00:00'} # Columbus Day
+  - {start-dt: '2019-11-27T00:00', end-dt: '2019-12-01T23:59'} # Thanksgiving

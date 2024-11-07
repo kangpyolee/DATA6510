@@ -1,0 +1,6 @@
+term: Summer2022
+term-year: 2022
+holiday-rules:
+  - {start-dt: '2022-05-30T00:00', end-dt: '2022-05-30T23:59'} # Memorial Day
+  - {start-dt: '2022-06-19T00:00', end-dt: '2022-06-19T23:59'} # Juneteenth
+  - {start-dt: '2022-07-04T00:00', end-dt: '2022-07-05T00:00'}  # Independence Day

@@ -1,0 +1,56 @@
+term,crn,catalog_id,section,credits,title,meetings,timecodes,primary_instructor,cap,act,rem
+Winter2023,12379,DATA 4990,01,3.000,Independent Study,[],[],Yasin   Ozcelik,2,0,2
+Winter2023,12350,DATA 5410,01,1.500,Analytics Programming for Business,[],[],Yasin   Ozcelik,25,0,25
+Winter2023,12351,DATA 6100,01,3.000,Fundamentals of Analytics,[],[],Yasin   Ozcelik,25,0,25
+Winter2023,12344,ANTH 1110,01,3.000,Cultural Anthropology,[],[],Alfred   Babo,20,0,20
+Winter2023,12345,ANTH 1200,01,3.000,Biological Anthropology,[],[],Joseph A.  Wilson,20,0,20
+Winter2023,12347,AETH 2285,01,3.000,Ethics of Health Care,[],[],James Abordo   Ong,20,0,20
+Winter2023,12348,AETH 2291,01,3.000,Business Ethics,[],[],James Abordo   Ong,20,0,20
+Winter2023,12334,AHST 1103,01,3.000,"Art of Africa, the Caribbean, and the Americas",[],[],Dawn M.  Pilotti,20,0,20
+Winter2023,12335,AHST 1172,01,3.000,History of Photography,[],[],Lauren Elise  Cesiro,20,0,20
+Winter2023,12317,BIOL 1020,01,3.000,Bioinspiration: Innovation Inspired by Nature,[],[],Christine R.  Rodriguez,20,0,20
+Winter2023,12318,BIOL 1070,01,3.000,"Science, Technology, and Society",[],[],Debra S.  Sauer,20,0,20
+Winter2023,12319,BIOL 1078,01,3.000,Introduction to Marine Science,[],[],Shannon P.  Gerry,20,0,20
+Winter2023,12331,COMM 1100,01,3.000,Human Communication Theories,[],[],Qin   Zhang,20,0,20
+Winter2023,12332,COMM 1130,01,3.000,Mass Media and Society,[],[],Adam E.  Rugg,20,0,20
+Winter2023,12333,COMM 2240,01,3.000,Intercultural Communication,[],[],Qin   Zhang,20,0,20
+Winter2023,12369,COMM 2246,01,3.000,Family Communication,"[{'days': 'MTWRF', 'times': '1000am-1200pm', 'dates': '01/03-01/11', 'location': 'ONLINE '}, {'days': 'F', 'times': '1000am-1200pm', 'dates': '01/13-01/13', 'location': 'ONLINE '}]","['MTWRF 1000am-1200pm 01/03-01/11 ONLINE ', 'F 1000am-1200pm 01/13-01/13 ONLINE ', 'F 1000am-1200pm 01/13-01/13 ONLINE ']",Margaret A.  Wills,19,0,19
+Winter2023,12309,ECON 1011,01,3.000,Introduction to Microeconomics,[],[],William F.  Vasquez Mazariegos,20,0,20
+Winter2023,12310,ECON 1012,01,3.000,Introduction to Macroeconomics,[],[],William F.  Vasquez Mazariegos,20,0,20
+Winter2023,12311,ECON 2140,01,3.000,Health Economics,[],[],Anna-Maria   Aksan,20,0,20
+Winter2023,12337,EDUC 6552,01,3.000,Research for Action and Advocacy in School and Community Settings,"[{'days': 'TWR', 'times': '0600pm-0900pm', 'dates': '12/29-01/12', 'location': 'ONLINE '}]",['TWR 0600pm-0900pm 12/29-01/12 ONLINE '],Bryan R.  Crandall,15,0,15
+Winter2023,12338,EDUC 6552,02,3.000,Research for Action and Advocacy in School and Community Settings,"[{'days': 'TWR', 'times': '0600pm-0900pm', 'dates': '12/29-01/12', 'location': 'ONLINE '}]",['TWR 0600pm-0900pm 12/29-01/12 ONLINE '],Pierre W.  Orelus,15,0,15
+Winter2023,12320,ENGL 1010,01,3.000,Introduction to Literary and Cultural Studies,[],[],Christopher Grant  Madden,20,0,20
+Winter2023,12374,ENGL 1410,01,3.000,Imagining Shakespeare,[],[],Jill L.  Bodach,20,0,20
+Winter2023,12321,ENGL 1630,01,3.000,Literature of Illness and Healing: Wounded Storytellers and Dedicated Healers,[],[],Jacqueline   Rinaldi,20,0,20
+Winter2023,12312,FNCE 4390,01,3.000,Sem. in Fin.: US Sec. Industry,[],[],Michael B  McDonald,20,0,20
+Winter2023,12378,FNCE 4390,02,3.000,Sem.in Fin.: Valuation and M&A,[],[],Nomalia   Manna,20,0,20
+Winter2023,12302,FNCE 6500,01,3.000,Stakeholder Value,[],[],Noradeen   Farlekas,20,0,20
+Winter2023,12322,HIST 1100,01,3.000,Origins of the Modern World Since 1500,[],[],Jonathon   Awtrey,20,0,20
+Winter2023,12368,INTL 2101,01,3.000,Introduction to International Business,[],[],Helena K.  Keefe,20,0,20
+Winter2023,12366,MGMT 2101,01,3.000,Introduction to Management,[],[],Yifeng   Fan,20,0,20
+Winter2023,12376,MGMT 2101,02,3.000,Introduction to Management,[],[],Yifeng   Fan,20,0,20
+Winter2023,12367,MGMT 4300,01,3.000,Business Strategies in the Global Environment,[],[],Stanislav   Vavilov,20,0,20
+Winter2023,12375,MGMT 4300,02,3.000,Business Strategies in the Global Environment,[],[],Stanislav   Vavilov,20,0,20
+Winter2023,12314,MKTG 1101,01,3.000,Principles of Marketing,[],[],Camelia   Micu,20,0,20
+Winter2023,12315,MKTG 2241,01,3.000,Digital Marketing,[],[],Camelia   Micu,20,0,20
+Winter2023,12372,MKTG 6540,01,3.000,Advertising Management,[],[],William   Natlo,20,0,20
+Winter2023,12373,MKTG 6560,01,3.000,Category Management and Shopper Insights,[],[],Andrew M.  Blum,20,0,20
+Winter2023,12323,MATH 1121,01,3.000,Applied Calculus I,[],[],Anna B.  DiCenso,20,0,20
+Winter2023,12371,MATH 2217,01,3.000,Statistics I,[],[],Michael D.  Herley,20,0,20
+Winter2023,12377,MUSC 1104,01,3.000,History of Music: 1700-1964,[],[],Michael Anthony  Ciavaglia,20,0,20
+Winter2023,12303,MUSC 1132,01,3.000,Critical Issues in American Popular Music: Blues to Hip Hop,[],[],Brian Q.  Torff,19,0,19
+Winter2023,12380,NURS 7614,01,3.000,Information Technology for Healthcare Improvement,[],[],TBA,10,0,10
+Winter2023,12352,NURS 7687,1,1.000-6.000,DNP Immersion,[],[],Joyce Muriel  Shea,35,0,35
+Winter2023,12324,PHIL 1101,01,3.000,Introduction to Philosophy,[],[],Kristin   Culbertson,20,0,20
+Winter2023,12325,PHYS 1078,01,3.000,Nature of the Universe,[],[],Joachim   Kuhn,20,0,20
+Winter2023,12326,PHYS 1087,01,3.000,Fundamentals of Astronomy,[],[],Angela   Biselli,20,0,20
+Winter2023,12328,POLI 1104,01,3.000,Introduction to International Relations,[],[],Lucrecia   Garcia Iommi,20,0,20
+Winter2023,12370,PSYC 2310,01,3.000,Psychopathology and Clinical Science,[],[],Margaret M.  McClure,20,0,20
+Winter2023,12339,RLST 1002,01,3.000,"Common Questions, Traditional Response",[],[],John T.  Slotemaker,20,0,20
+Winter2023,12340,RLST 1002,02,3.000,"Common Questions, Traditional Response",[],[],John T.  Slotemaker,20,0,20
+Winter2023,12341,RLST 2331,01,3.000,The Problem of God,[],[],Erik J.  Ranstrom,20,0,20
+Winter2023,12342,RLST 2428,01,3.000,Early Christianity,[],[],Thomas C.  Schmidt,20,0,20
+Winter2023,12305,SOCI 2220,01,3.000,Criminal Justice System Seminar,"[{'days': 'MTWRF', 'times': '0930am-1200pm', 'dates': '01/03-01/12', 'location': 'ONLINE '}, {'days': 'F', 'times': '0930am-0300pm', 'dates': '01/13-01/13', 'location': 'ONLINE '}]","['MTWRF 0930am-1200pm 01/03-01/12 ONLINE ', 'F 0930am-0300pm 01/13-01/13 ONLINE ', 'F 0930am-0300pm 01/13-01/13 ONLINE ']",Rose P.  Rodrigues,19,0,19
+Winter2023,12304,SART 1012,01,3.000,Introduction to Drawing,"[{'days': 'MTWRF', 'times': '0930am-1200pm', 'dates': '01/03-01/13', 'location': 'ONLINE '}]",['MTWRF 0930am-1200pm 01/03-01/13 ONLINE '],Kathryn J.  Yarrington,15,0,15
+Winter2023,12346,TAXN 6540,01,3.000,State and Local Taxation,"[{'days': 'TWRFS', 'times': '0900am-1200pm', 'dates': '01/03-01/11', 'location': 'ONLINE '}, {'days': 'F', 'times': '0900am-1200pm', 'dates': '01/13-01/13', 'location': 'ONLINE '}, {'days': 'S', 'times': '0900am-0100pm', 'dates': '01/14-01/14', 'location': 'ONLINE '}]","['TWRFS 0900am-1200pm 01/03-01/11 ONLINE ', 'F 0900am-1200pm 01/13-01/13 ONLINE ', 'F 0900am-1200pm 01/13-01/13 ONLINE ', 'S 0900am-0100pm 01/14-01/14 ONLINE ', 'S 0900am-0100pm 01/14-01/14 ONLINE ']",Milo William  Peck,25,0,25

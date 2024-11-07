@@ -1,0 +1,55 @@
+term,crn,catalog_id,section,credits,title,meetings,timecodes,primary_instructor,instructors,cap,act,rem
+Winter2022,12253,DATA 5410,01,1.500,Analytics Programming for Business,[],[],Yasin   Ozcelik,Yasin   Ozcelik (P),20,14,6
+Winter2022,12254,DATA 6100,01,3.000,Fundamentals of Analytics,[],[],Yasin   Ozcelik,Yasin   Ozcelik (P),20,19,1
+Winter2022,12246,ANTH 1110,01,3.000,Cultural Anthropology,[],[],Alfred   Babo,Alfred   Babo (P),20,17,3
+Winter2022,12247,ANTH 1200,01,3.000,Biological Anthropology,[],[],Joseph A.  Wilson,Joseph A.  Wilson (P),20,20,0
+Winter2022,12250,AETH 2285,01,3.000,Ethics of Health Care,[],[],James Abordo   Ong,James Abordo   Ong (P),20,5,15
+Winter2022,12251,AETH 2291,01,3.000,Business Ethics,[],[],James Abordo   Ong,James Abordo   Ong (P),20,15,5
+Winter2022,12236,AHST 1103,01,3.000,"Art of Africa, the Caribbean, and the Americas",[],[],Dawn M.  Pilotti,Dawn M.  Pilotti (P),20,4,16
+Winter2022,12209,AHST 1164,01,3.000,American Art and Media Culture,"[{'days': 'MTWRF', 'times': '0900am-1130am', 'dates': '01/03-01/14', 'location': 'ONLINE '}]",['MTWRF 0900am-1130am 01/03-01/14 ONLINE '],Philip I.  Eliasoph,Philip I.  Eliasoph (P),15,7,8
+Winter2022,12237,AHST 1172,01,3.000,History of Photography,[],[],Lauren Elise  Cesiro,Lauren Elise  Cesiro (P),20,5,15
+Winter2022,12219,BIOL 1020,01,3.000,Bioinspiration: Innovation Inspired by Nature,[],[],Christine R.  Rodriguez,Christine R.  Rodriguez (P),20,20,0
+Winter2022,12220,BIOL 1070,01,3.000,"Science, Technology, and Society",[],[],Debra S.  Sauer,Debra S.  Sauer (P),20,3,17
+Winter2022,12221,BIOL 1078,01,3.000,Introduction to Marine Science,[],[],Shannon P.  Gerry,Shannon P.  Gerry (P),20,19,1
+Winter2022,12271,BUSN 6980,01,3.000,Business Immersion Practicum,[],[],Julie Anne  Marella,Julie Anne  Marella (P),12,2,10
+Winter2022,12233,COMM 1100,01,3.000,Human Communication Theories,[],[],Qin   Zhang,Qin   Zhang (P),20,15,5
+Winter2022,12234,COMM 1130,01,3.000,Mass Media and Society,[],[],Adam E.  Rugg,Adam E.  Rugg (P),20,10,10
+Winter2022,12235,COMM 2240,01,3.000,Intercultural Communication,[],[],Qin   Zhang,Qin   Zhang (P),20,17,3
+Winter2022,12252,COMM 5343,01,3.000,Ethics and Medical Marketing Communication,[],[],Michael P.  Pagano,Michael P.  Pagano (P),20,5,15
+Winter2022,12211,ECON 1011,01,3.000,Introduction to Microeconomics,[],[],William F.  Vasquez Mazariegos,William F.  Vasquez Mazariegos (P),20,6,14
+Winter2022,12212,ECON 1012,01,3.000,Introduction to Macroeconomics,[],[],William F.  Vasquez Mazariegos,William F.  Vasquez Mazariegos (P),20,4,16
+Winter2022,12213,ECON 2140,01,3.000,Health Economics,[],[],Anna-Maria   Aksan,Anna-Maria   Aksan (P),20,14,6
+Winter2022,12266,EDUC 6552,03,3.000,Research for Action and Advocacy in School and Community Settings,"[{'days': 'W', 'times': '1000am-0100pm', 'dates': '12/29-12/29', 'location': 'ONLINE '}, {'days': 'M', 'times': '0400pm-0700pm', 'dates': '01/03-01/03', 'location': 'ONLINE '}, {'days': 'T', 'times': '0400pm-0700pm', 'dates': '01/04-01/04', 'location': 'ONLINE '}, {'days': 'W', 'times': '0400pm-0700pm', 'dates': '01/05-01/05', 'location': 'ONLINE '}, {'days': 'R', 'times': '0400pm-0700pm', 'dates': '01/06-01/06', 'location': 'ONLINE '}, {'days': 'W', 'times': '0400pm-0700pm', 'dates': '01/12-01/12', 'location': 'ONLINE '}, {'days': 'R', 'times': '0400pm-0700pm', 'dates': '01/13-01/13', 'location': 'ONLINE '}]","['W 1000am-0100pm 12/29-12/29 ONLINE ', 'M 0400pm-0700pm 01/03-01/03 ONLINE ', 'M 0400pm-0700pm 01/03-01/03 ONLINE ', 'T 0400pm-0700pm 01/04-01/04 ONLINE ', 'T 0400pm-0700pm 01/04-01/04 ONLINE ', 'W 0400pm-0700pm 01/05-01/05 ONLINE ', 'W 0400pm-0700pm 01/05-01/05 ONLINE ', 'R 0400pm-0700pm 01/06-01/06 ONLINE ', 'R 0400pm-0700pm 01/06-01/06 ONLINE ', 'W 0400pm-0700pm 01/12-01/12 ONLINE ', 'W 0400pm-0700pm 01/12-01/12 ONLINE ', 'R 0400pm-0700pm 01/13-01/13 ONLINE ', 'R 0400pm-0700pm 01/13-01/13 ONLINE ']",Emily R.  Smith,"Emily R.  Smith (P), Laurie   Grupp ",16,15,1
+Winter2022,12267,EDUC 6552,04,3.000,Research for Action and Advocacy in School and Community Settings,"[{'days': 'W', 'times': '1000am-0100pm', 'dates': '12/29-12/29', 'location': 'ONLINE '}, {'days': 'M', 'times': '0400pm-0700pm', 'dates': '01/03-01/03', 'location': 'ONLINE '}, {'days': 'T', 'times': '0400pm-0700pm', 'dates': '01/04-01/04', 'location': 'ONLINE '}, {'days': 'W', 'times': '0400pm-0700pm', 'dates': '01/05-01/05', 'location': 'ONLINE '}, {'days': 'R', 'times': '0400pm-0700pm', 'dates': '01/06-01/06', 'location': 'ONLINE '}, {'days': 'W', 'times': '0400pm-0700pm', 'dates': '01/12-01/12', 'location': 'ONLINE '}, {'days': 'R', 'times': '0400pm-0700pm', 'dates': '01/13-01/13', 'location': 'ONLINE '}]","['W 1000am-0100pm 12/29-12/29 ONLINE ', 'M 0400pm-0700pm 01/03-01/03 ONLINE ', 'M 0400pm-0700pm 01/03-01/03 ONLINE ', 'T 0400pm-0700pm 01/04-01/04 ONLINE ', 'T 0400pm-0700pm 01/04-01/04 ONLINE ', 'W 0400pm-0700pm 01/05-01/05 ONLINE ', 'W 0400pm-0700pm 01/05-01/05 ONLINE ', 'R 0400pm-0700pm 01/06-01/06 ONLINE ', 'R 0400pm-0700pm 01/06-01/06 ONLINE ', 'W 0400pm-0700pm 01/12-01/12 ONLINE ', 'W 0400pm-0700pm 01/12-01/12 ONLINE ', 'R 0400pm-0700pm 01/13-01/13 ONLINE ', 'R 0400pm-0700pm 01/13-01/13 ONLINE ']",Laurie   Grupp,"Laurie   Grupp (P), Emily R.  Smith ",15,17,-2
+Winter2022,12269,EDDL 7005,01,3.000,Systems Approach to Innovation and Improvement,[],[],Anna M  Cutaia,Anna M  Cutaia (P),20,1,19
+Winter2022,12270,EDDL 7040,01,3.000,"Power, Privilege, and Identity in Educational Leadership",[],[],Romina A.  Pacheco,Romina A.  Pacheco (P),20,1,19
+Winter2022,12222,ENGL 1010,01,3.000,Introduction to Literary and Cultural Studies,[],[],Christopher Grant  Madden,Christopher Grant  Madden (P),20,17,3
+Winter2022,12223,ENGL 1630,01,3.000,Literature of Illness and Healing: Wounded Storytellers and Dedicated Healers,[],[],Jacqueline   Rinaldi,Jacqueline   Rinaldi (P),20,8,12
+Winter2022,12214,FNCE 4390,01,3.000,Seminar in Finance,[],[],Michael B  McDonald,Michael B  McDonald (P),20,19,1
+Winter2022,12203,FNCE 6500,01,3.000,Stakeholder Value,"[{'days': 'S', 'times': '0830am-0430pm', 'dates': '01/08-01/15', 'location': 'ONLINE '}, {'days': 'MTWRF', 'times': '0600pm-0930pm', 'dates': '01/10-01/14', 'location': 'ONLINE '}]","['S 0830am-0430pm 01/08-01/15 ONLINE ', 'MTWRF 0600pm-0930pm 01/10-01/14 ONLINE ', 'MTWRF 0600pm-0930pm 01/10-01/14 ONLINE ']",Thomas E.  Conine,Thomas E.  Conine (P),18,17,1
+Winter2022,12260,FNCE 6990,KB,3.000,Independent Research Seminar,[],[],Katsiaryna Salavei  Bardos,Katsiaryna Salavei  Bardos (P),3,0,3
+Winter2022,12224,HIST 1100,01,3.000,Origins of the Modern World Since 1500,[],[],Jonathon   Awtrey,Jonathon   Awtrey (P),20,18,2
+Winter2022,12263,HIST 1100,02,3.000,Origins of the Modern World Since 1500,[],[],Jonathon   Awtrey,Jonathon   Awtrey (P),20,6,14
+Winter2022,12215,ISOM 2100,01,3.000,Introduction to Information Systems,[],[],Yasin   Ozcelik,Yasin   Ozcelik (P),25,11,14
+Winter2022,12232,MGMT 5400,01,3.000,Organizational Behavior,[],[],Lisa   Stafford,Lisa   Stafford (P),25,9,16
+Winter2022,12216,MKTG 1101,01,3.000,Principles of Marketing,[],[],Camelia   Micu,Camelia   Micu (P),24,20,4
+Winter2022,12217,MKTG 2241,01,3.000,Digital Marketing,[],[],Camelia   Micu,Camelia   Micu (P),24,23,1
+Winter2022,12264,MKTG 2241,02,3.000,Digital Marketing,[],[],Camelia   Micu,Camelia   Micu (P),20,13,7
+Winter2022,12218,MKTG 6580,01,3.000,Multivariate Analysis for Consumer Insights,[],[],Rajasree   Krishnankutty NairRajamma,"Rajasree   Krishnankutty NairRajamma (P), Mark S.  Ligas , Camelia   Micu , Iman   Naderi , Michael R.  Sciandra ",25,18,7
+Winter2022,12225,MATH 1121,01,3.000,Applied Calculus I,[],[],Anna B.  DiCenso,Anna B.  DiCenso (P),20,16,4
+Winter2022,12238,MUSC 1126,01,3.000,History of Choral Music,[],[],Michael Anthony  Ciavaglia,Michael Anthony  Ciavaglia (P),20,20,0
+Winter2022,12204,MUSC 1132,01,3.000,Critical Issues in American Popular Music: Blues to Hip Hop,[],[],Brian Q.  Torff,Brian Q.  Torff (P),19,10,9
+Winter2022,12268,NURS 4990C,AB,0.000,Independent Study in Clinical Practice,[],[],Audrey M.  Beauvais,Audrey M.  Beauvais (P),45,32,13
+Winter2022,12255,NURS 7687,1,1.000-6.000,DNP Immersion,[],[],Joyce Muriel  Shea,Joyce Muriel  Shea (P),30,4,26
+Winter2022,12226,PHIL 1101,01,3.000,Introduction to Philosophy,[],[],Kristin   Culbertson,Kristin   Culbertson (P),20,17,3
+Winter2022,12227,PHYS 1078,01,3.000,Nature of the Universe,[],[],Joachim   Kuhn,Joachim   Kuhn (P),20,10,10
+Winter2022,12230,POLI 1104,01,3.000,Introduction to International Relations,[],[],Lucrecia   Garcia Iommi,Lucrecia   Garcia Iommi (P),20,8,12
+Winter2022,12231,PSYC 1310,01,3.000,Psychopathology and Clinical Science for Non-Majors,[],[],Margaret M.  McClure,Margaret M.  McClure (P),20,9,11
+Winter2022,12241,RLST 1002,01,3.000,"Common Questions, Traditional Response",[],[],John T.  Slotemaker,John T.  Slotemaker (P),20,19,1
+Winter2022,12242,RLST 1002,02,3.000,"Common Questions, Traditional Response",[],[],John T.  Slotemaker,John T.  Slotemaker (P),20,17,3
+Winter2022,12262,RLST 1002,03,3.000,"Common Questions, Traditional Response",[],[],John T.  Slotemaker,John T.  Slotemaker (P),20,10,10
+Winter2022,12243,RLST 2331,01,3.000,The Problem of God,[],[],Erik J.  Ranstrom,Erik J.  Ranstrom (P),20,14,6
+Winter2022,12244,RLST 2428,01,3.000,Early Christianity,[],[],Thomas C.  Schmidt,Thomas C.  Schmidt (P),20,14,6
+Winter2022,12206,SOCI 2220,01,3.000,Criminal Justice System Seminar,"[{'days': 'MTWRF', 'times': '0930am-1200pm', 'dates': '01/03-01/14', 'location': 'ONLINE '}]",['MTWRF 0930am-1200pm 01/03-01/14 ONLINE '],Rose P.  Rodrigues,Rose P.  Rodrigues (P),19,7,12
+Winter2022,12205,SART 1012,01,3.000,Introduction to Drawing,"[{'days': 'MTWRF', 'times': '0930am-1200pm', 'dates': '01/03-01/14', 'location': 'ONLINE '}]",['MTWRF 0930am-1200pm 01/03-01/14 ONLINE '],Kathryn J.  Yarrington,Kathryn J.  Yarrington (P),15,8,7
+Winter2022,12248,TAXN 6540,01,3.000,State and Local Taxation,"[{'days': 'MTWFS', 'times': '0900am-1200pm', 'dates': '01/03-01/08', 'location': 'ONLINE '}, {'days': 'TWF', 'times': '0900am-1200pm', 'dates': '01/11-01/14', 'location': 'ONLINE '}, {'days': 'S', 'times': '0900am-0100pm', 'dates': '01/15-01/15', 'location': 'ONLINE '}]","['MTWFS 0900am-1200pm 01/03-01/08 ONLINE ', 'TWF 0900am-1200pm 01/11-01/14 ONLINE ', 'TWF 0900am-1200pm 01/11-01/14 ONLINE ', 'S 0900am-0100pm 01/15-01/15 ONLINE ', 'S 0900am-0100pm 01/15-01/15 ONLINE ']",Milo William  Peck,Milo William  Peck (P),25,22,3

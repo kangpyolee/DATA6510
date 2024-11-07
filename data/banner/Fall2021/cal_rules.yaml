@@ -1,0 +1,5 @@
+term: Fall2021
+term-year: 2021
+holiday-rules:
+  - {start-dt: '2021-10-11T00:00', end-dt: '2021-10-12T23:59'} # Fall Break
+  - {start-dt: '2021-11-24T00:00', end-dt: '2021-11-28T23:59'} # Thanksgiving

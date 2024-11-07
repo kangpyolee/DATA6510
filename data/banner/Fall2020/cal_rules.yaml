@@ -1,0 +1,6 @@
+term: Fall2020
+term-year: 2020
+date-shift-rules:
+  - {from-date: '2020-09-07', to-date: '2020-09-18'}
+holiday-rules:
+  - {start-dt: '2020-11-21T00:00', end-dt: '2019-11-29T23:59'} # Thanksgiving

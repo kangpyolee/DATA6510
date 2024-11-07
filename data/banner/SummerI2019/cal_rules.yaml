@@ -1,0 +1,5 @@
+term: SummerI2019
+term-year: 2019
+holiday-rules:
+  - {start-dt: '2019-05-27T00:00', end-dt: '2019-05-27T23:59'} # Memorial Day
+  - {start-dt: '2019-07-04T00:00', end-dt: '2019-07-05T00:00'}  # Independence Day

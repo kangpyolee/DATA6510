@@ -1,0 +1,5 @@
+term: Fall2022
+term-year: 2022
+holiday-rules:
+  - {start-dt: '2022-10-10T00:00', end-dt: '2022-10-11T23:59'} # Fall Break
+  - {start-dt: '2022-11-23T00:00', end-dt: '2022-11-27T23:59'} # Thanksgiving

@@ -1,0 +1,39 @@
+term,crn,catalog_id,section,credits,title,meetings,timecodes,primary_instructor,instructors,cap,act,rem
+Winter2020,12023,AY 0110,OL1,3.000,Biological Anthropology,[],[],Joseph A.  Wilson,Joseph A.  Wilson (P),20,18,2
+Winter2020,12038,AY 0111,OL1,3.000,Cultural Anthropology,[],[],Alfred   Babo,Alfred   Babo (P),20,13,7
+Winter2020,12048,AE 0285,OL1,3.000,Ethics of Health Care,[],[],James Abordo   Ong,James Abordo   Ong (P),20,12,8
+Winter2020,12022,AE 0291,OL1,3.000,Business Ethics,[],[],Lisa M.  Sticca-Conrod,Lisa M.  Sticca-Conrod (P),20,5,15
+Winter2020,12045,AH 0103,OL1,3.000,"Art of Africa, the Caribbean, and the Americas",[],[],Dawn M.  Pilotti,Dawn M.  Pilotti (P),20,20,0
+Winter2020,12012,BI 0071,OL1,3.000,Identity and the Human Genome,[],[],Christine R.  Rodriguez,Christine R.  Rodriguez (P),20,19,1
+Winter2020,12004,BI 0075,OL1,3.000,Ecology and Society,[],[],Thomas B.  Cunningham,Thomas B.  Cunningham (P),20,17,3
+Winter2020,12024,BI 0078,OL1,3.000,Introduction to Marine Science,[],[],Thomas B.  Cunningham,Thomas B.  Cunningham (P),20,18,2
+Winter2020,12001,BU 0211,01,3.000,Legal Environment of Business,"[{'days': 'MTWRF', 'times': '0830am-0430pm', 'dates': '01/02-01/08', 'location': 'DSBN 115'}]",['MTWRF 0830am-0430pm 01/02-01/08 DSBN 115'],Sharlene A.  McEvoy,Sharlene A.  McEvoy (P),15,3,12
+Winter2020,12006,CO 0240,OL1,3.000,Intercultural Communication,[],[],Qin   Zhang,Qin   Zhang (P),20,10,10
+Winter2020,12039,CO 0246,01,3.000,Family Communication,"[{'days': 'MTWRF', 'times': '0830am-0430pm', 'dates': '01/02-01/08', 'location': 'DMH 350'}]",['MTWRF 0830am-0430pm 01/02-01/08 DMH 350'],Margaret A.  Wills,Margaret A.  Wills (P),20,9,11
+Winter2020,12046,CO 0410,OL1,3.000,Perspectives and Theories in Organizational Communication,[],[],Michael P.  Pagano,Michael P.  Pagano (P),16,8,8
+Winter2020,12025,EC 0011,OL1,3.000,Introduction to Microeconomics,[],[],William F.  Vasquez Mazariegos,William F.  Vasquez Mazariegos (P),20,8,12
+Winter2020,12040,EN 0101,OL1,3.000,Introduction to Literary and Cultural Studies,[],[],Christopher Grant  Madden,Christopher Grant  Madden (P),20,18,2
+Winter2020,12007,EN 0163,OL1,3.000,The Literature of Illness and Healing: Wounded Storytellers and Dedicated Healers,[],[],Jacqueline   Rinaldi,Jacqueline   Rinaldi (P),20,19,1
+Winter2020,12017,FI 0101,OL1,3.000,Introduction to Finance,[],[],Nazli S.  Alan,Nazli S.  Alan (P),20,6,14
+Winter2020,12003,FI 0500,01,3.000,Shareholder Value,"[{'days': 'MTWRF', 'times': '0600pm-0930pm', 'dates': '01/03-01/10', 'location': 'DSBN 204'}, {'days': 'S', 'times': '0830am-0430pm', 'dates': '01/04-01/11', 'location': 'DSBN 204'}]","['MTWRF 0600pm-0930pm 01/03-01/10 DSBN 204', 'S 0830am-0430pm 01/04-01/11 DSBN 204', 'S 0830am-0430pm 01/04-01/11 DSBN 204']",Thomas E.  Conine,Thomas E.  Conine (P),20,17,3
+Winter2020,12026,IS 0100,OL1,3.000,Introduction to Information Systems,[],[],Yasin   Ozcelik,Yasin   Ozcelik (P),20,7,13
+Winter2020,12052,IS 0500,OL1,3.000,Information Systems and Database Management,[],[],Yasin   Ozcelik,Yasin   Ozcelik (P),15,12,3
+Winter2020,12002,MG 0500,01,3.000,Leadership,"[{'days': 'MTWRF', 'times': '0600pm-1000pm', 'dates': '01/02-01/10', 'location': 'DSBN 110'}, {'days': 'S', 'times': '0830am-0430pm', 'dates': '01/04-01/11', 'location': 'DSBN 101'}]","['MTWRF 0600pm-1000pm 01/02-01/10 DSBN 110', 'S 0830am-0430pm 01/04-01/11 DSBN 101', 'S 0830am-0430pm 01/04-01/11 DSBN 101']",Lisa A.  Mainiero,Lisa A.  Mainiero (P),16,16,0
+Winter2020,12016,MK 0101,OL1,3.000,Principles of Marketing,[],[],Camelia   Micu,Camelia   Micu (P),23,21,2
+Winter2020,12027,MK 0241,OL1,3.000,Digital Marketing,[],[],Camelia   Micu,Camelia   Micu (P),23,23,0
+Winter2020,12042,MK 0535,01,3.000,Building Brand Equity,"[{'days': 'MTWRF', 'times': '0600pm-1000pm', 'dates': '01/02-01/10', 'location': 'DSBN 111'}, {'days': 'S', 'times': '0830am-0430pm', 'dates': '01/04-01/11', 'location': 'DSBN 111'}]","['MTWRF 0600pm-1000pm 01/02-01/10 DSBN 111', 'S 0830am-0430pm 01/04-01/11 DSBN 111', 'S 0830am-0430pm 01/04-01/11 DSBN 111']",Mark S.  Ligas,Mark S.  Ligas (P),20,12,8
+Winter2020,12041,MA 0016,OL1,3.000,Concepts of Calculus,[],[],Matthew C.  Duckett,Matthew C.  Duckett (P),20,7,13
+Winter2020,12033,MA 0217,OL1,3.000,Statistics I,[],[],Irene T.  Mulvey,Irene T.  Mulvey (P),20,18,2
+Winter2020,12013,MU 0102,01,3.000,History and Development of Rock,"[{'days': 'MTWRF', 'times': '0830am-0430pm', 'dates': '01/02-01/08', 'location': 'CNS 1'}]",['MTWRF 0830am-0430pm 01/02-01/08 CNS 1'],Brian Q.  Torff,Brian Q.  Torff (P),20,8,12
+Winter2020,12028,MU 0104,OL1,3.000,History of Music: 1700-1964,[],[],Michael Anthony  Ciavaglia,Michael Anthony  Ciavaglia (P),20,20,0
+Winter2020,12029,MU 0201,OL1,3.000,Hip-Hop and Its Antecedants,[],[],Laura   Nash,Laura   Nash (P),20,9,11
+Winter2020,12011,NS 0687,01,1.000-6.000,DNP Immersion,[],[],Joyce Muriel  Shea,Joyce Muriel  Shea (P),30,2,28
+Winter2020,12053,NS 0687F,01,1.000,DNP Immersion,[],[],Joyce Muriel  Shea,Joyce Muriel  Shea (P),5,1,4
+Winter2020,12008,PS 0078,OL1,3.000,The Nature of the Universe,[],[],Joachim   Kuhn,Joachim   Kuhn (P),20,15,5
+Winter2020,12019,PY 0131,OL1,3.000,Abnormal Psychology for Non-Majors,[],[],Margaret M.  McClure,Margaret M.  McClure (P),20,8,12
+Winter2020,12047,MPA 0420,01,3.000,Leadership,"[{'days': 'TR', 'times': '0530pm-0930pm', 'dates': '01/02-01/09', 'location': 'CNS 9'}]","['TR 0530pm-0930pm 01/02-01/09 CNS 9', 'TR 0530pm-0930pm 01/02-01/09 CNS 9']",Bieu Bu  Tran,Bieu Bu  Tran (P),20,6,14
+Winter2020,12009,RS 0101D,OL1,3.000,Exploring Religion: Religion in a Comparative Key,[],[],Erik J.  Ranstrom,Erik J.  Ranstrom (P),20,19,1
+Winter2020,12044,RS 0228,OL1,3.000,Early Christianity,[],[],Thomas C.  Schmidt,Thomas C.  Schmidt (P),20,18,2
+Winter2020,12015,SA 0012,01,3.000,Introduction to Drawing,"[{'days': 'MTWRF', 'times': '0830am-0430pm', 'dates': '01/02-01/08', 'location': 'LYL 22'}]",['MTWRF 0830am-0430pm 01/02-01/08 LYL 22'],Kathryn J.  Yarrington,Kathryn J.  Yarrington (P),16,9,7
+Winter2020,12050,SL 0099,01,0.000,Comprehensive Examination in TESOL and Bilingual/Multicultural Education,[],[],Anne E  Campbell,Anne E  Campbell (P),2,1,1
+Winter2020,12043,TX 0540,01,3.000,State and Local Taxation,"[{'days': 'TRU', 'times': '0900am-1200pm', 'dates': '01/02-01/07', 'location': 'DSBN 111'}, {'days': 'WF', 'times': '0900am-0400pm', 'dates': '01/03-01/08', 'location': 'DSBN 111'}, {'days': 'M', 'times': '0900am-0100pm', 'dates': '01/06-01/06', 'location': 'DSBN 111'}, {'days': 'F', 'times': '0900am-0500pm', 'dates': '01/10-01/10', 'location': 'DSBN 111'}]","['TRU 0900am-1200pm 01/02-01/07 DSBN 111', 'WF 0900am-0400pm 01/03-01/08 DSBN 111', 'WF 0900am-0400pm 01/03-01/08 DSBN 111', 'M 0900am-0100pm 01/06-01/06 DSBN 111', 'M 0900am-0100pm 01/06-01/06 DSBN 111', 'F 0900am-0500pm 01/10-01/10 DSBN 111', 'F 0900am-0500pm 01/10-01/10 DSBN 111']",Milo William  Peck,Milo William  Peck (P),20,11,9

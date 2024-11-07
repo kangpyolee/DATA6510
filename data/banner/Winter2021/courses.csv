@@ -1,0 +1,60 @@
+term,crn,catalog_id,section,credits,title,meetings,timecodes,primary_instructor,instructors,cap,act,rem
+Winter2021,12101,ACCT 5400,OL1,3.000,Introduction to Accounting,[],[],Michael P.  Coyne,Michael P.  Coyne (P),20,16,4
+Winter2021,12105,ANTH 1110,OL1,3.000,Cultural Anthropology,[],[],Alfred   Babo,Alfred   Babo (P),20,18,2
+Winter2021,12106,ANTH 1200,OL1,3.000,Biological Anthropology,[],[],Joseph A.  Wilson,Joseph A.  Wilson (P),20,20,0
+Winter2021,12149,AETH 2285,OL1,3.000,Ethics of Health Care,[],[],James Abordo   Ong,James Abordo   Ong (P),20,11,9
+Winter2021,12150,AETH 2291,OL1,3.000,Business Ethics,[],[],James Abordo   Ong,James Abordo   Ong (P),20,15,5
+Winter2021,12103,AHST 1103,OL1,3.000,"Art of Africa, the Caribbean, and the Americas",[],[],Dawn M.  Pilotti,Dawn M.  Pilotti (P),20,12,8
+Winter2021,12153,AHST 1164,OL1,3.000,American Art and Media Culture,"[{'days': 'MTWRF', 'times': '1000am-1230pm', 'dates': '01/04-01/15', 'location': 'ONLINE '}]",['MTWRF 1000am-1230pm 01/04-01/15 ONLINE '],Philip I.  Eliasoph,Philip I.  Eliasoph (P),15,10,5
+Winter2021,12104,AHST 1172,OL1,3.000,History of Photography,[],[],Lauren Elise  Cesiro,Lauren Elise  Cesiro (P),20,12,8
+Winter2021,12107,BIOL 1020,OL1,3.000,Bioinspiration: Innovation Inspired by Nature,[],[],Christine R.  Rodriguez,Christine R.  Rodriguez (P),20,20,0
+Winter2021,12108,BIOL 1070,OL1,3.000,"Science, Technology, and Society",[],[],Debra S.  Sauer,Debra S.  Sauer (P),20,5,15
+Winter2021,12109,BIOL 1078,OL1,3.000,Introduction to Marine Science,[],[],Shannon P.  Gerry,Shannon P.  Gerry (P),20,19,1
+Winter2021,12110,BUSN 3211,OL1,3.000,Legal Environment of Business,"[{'days': 'MTWRF', 'times': '1000am-1200pm', 'dates': '01/04-01/15', 'location': 'ONLINE '}, {'days': 'MTWRF', 'times': '0100pm-0300pm', 'dates': '01/04-01/15', 'location': 'ONLINE '}]","['MTWRF 1000am-1200pm 01/04-01/15 ONLINE ', 'MTWRF 0100pm-0300pm 01/04-01/15 ONLINE ', 'MTWRF 0100pm-0300pm 01/04-01/15 ONLINE ']",Sharlene A.  McEvoy,Sharlene A.  McEvoy (P),19,6,13
+Winter2021,12143,BUAN 5410,OL1,1.500,Analytics Programming for Business,[],[],Yasin   Ozcelik,Yasin   Ozcelik (P),10,8,2
+Winter2021,12111,COMM 1100,OL1,3.000,Human Communication Theories,[],[],Qin   Zhang,Qin   Zhang (P),20,6,14
+Winter2021,12112,COMM 2240,OL1,3.000,Intercultural Communication,[],[],Qin   Zhang,Qin   Zhang (P),20,16,4
+Winter2021,12113,COMM 5347,OL1,3.000,Communication in Healthcare Organizations,[],[],Michael P.  Pagano,Michael P.  Pagano (P),16,4,12
+Winter2021,12114,ECON 1011,OL1,3.000,Introduction to Microeconomics,[],[],William F.  Vasquez Mazariegos,William F.  Vasquez Mazariegos (P),20,9,11
+Winter2021,12115,ECON 1012,OL1,3.000,Introduction to Macroeconomics,[],[],William F.  Vasquez Mazariegos,William F.  Vasquez Mazariegos (P),20,10,10
+Winter2021,12154,ECON 2140,OL1,3.000,Health Economics,[],[],Anna-Maria   Aksan,Anna-Maria   Aksan (P),20,12,8
+Winter2021,12151,EDUC 6552,OL1,3.000,Research for Action and Advocacy in School and Community Settings,[],[],Scott R.  McCarthy,Scott R.  McCarthy (P),15,15,0
+Winter2021,12152,EDUC 6552,OL2,3.000,Research for Action and Advocacy in School and Community Settings,[],[],Scott R.  McCarthy,Scott R.  McCarthy (P),15,15,0
+Winter2021,12116,ENGL 1010,OL1,3.000,Introduction to Literary and Cultural Studies,[],[],Christopher Grant  Madden,Christopher Grant  Madden (P),20,18,2
+Winter2021,12118,ENGL 1630,OL1,3.000,Literature of Illness and Healing: Wounded Storytellers and Dedicated Healers,[],[],Jacqueline   Rinaldi,Jacqueline   Rinaldi (P),20,9,11
+Winter2021,12160,ENGL 4990,LX,3.000,Independent Study,[],[],Lei   Xie,Lei   Xie (P),1,1,0
+Winter2021,12119,FNCE 2101,OL1,3.000,Introduction to Finance,[],[],Titos   Ritsatos,Titos   Ritsatos (P),28,13,15
+Winter2021,12120,FNCE 4390,OL1,3.000,Seminar in Finance: U.S. Securities Industry,[],[],Michael B  McDonald,Michael B  McDonald (P),20,15,5
+Winter2021,12121,FNCE 6500,OL1,3.000,Shareholder Value,"[{'days': 'S', 'times': '0830am-0430pm', 'dates': '01/02-01/09', 'location': 'ONLINE '}, {'days': 'MTWRF', 'times': '0600pm-0930pm', 'dates': '01/04-01/08', 'location': 'ONLINE '}]","['S 0830am-0430pm 01/02-01/09 ONLINE ', 'MTWRF 0600pm-0930pm 01/04-01/08 ONLINE ', 'MTWRF 0600pm-0930pm 01/04-01/08 ONLINE ']",Thomas E.  Conine,Thomas E.  Conine (P),21,21,0
+Winter2021,12122,HIST 1100,OL1,3.000,Origins of the Modern World Since 1500,[],[],Nicholas K.  Rutter,Nicholas K.  Rutter (P),20,20,0
+Winter2021,12157,HIST 1106,OL1,3.000,Imperialism and Colonialism,[],[],Sunil   Purushotham,Sunil   Purushotham (P),20,10,10
+Winter2021,12123,ISOM 2100,OL1,3.000,Introduction to Information Systems,[],[],Yasin   Ozcelik,Yasin   Ozcelik (P),25,8,17
+Winter2021,12155,ISOM 6500,OL1,3.000,Information Systems and Database Management,[],[],Yasin   Ozcelik,Yasin   Ozcelik (P),20,20,0
+Winter2021,12158,ISOM 6500,OL2,3.000,Information Systems and Database Management,[],[],Yasin   Ozcelik,Yasin   Ozcelik (P),20,15,5
+Winter2021,12126,MGMT 5400,OL1,3.000,Organizational Behavior,[],[],Lisa   Stafford,Lisa   Stafford (P),20,12,8
+Winter2021,12127,MKTG 1101,OL1,3.000,Principles of Marketing,[],[],Camelia   Micu,Camelia   Micu (P),23,14,9
+Winter2021,12128,MKTG 2241,OL1,3.000,Digital Marketing,[],[],Camelia   Micu,Camelia   Micu (P),23,21,2
+Winter2021,12129,MKTG 6580,OL1,3.000,Multivariate Analysis for Consumer Insights,[],[],Rajasree   Krishnankutty NairRajamma,"Rajasree   Krishnankutty NairRajamma (P), Mark S.  Ligas , Camelia   Micu , Iman   Naderi , Michael R.  Sciandra ",20,20,0
+Winter2021,12156,MKTG 6580,OL2,3.000,Multivariate Analysis for Consumer Insights,[],[],Rajasree   Krishnankutty NairRajamma,"Rajasree   Krishnankutty NairRajamma (P), Mark S.  Ligas , Camelia   Micu , Iman   Naderi , Michael R.  Sciandra ",20,10,10
+Winter2021,12124,MATH 1121,OL1,3.000,Applied Calculus I,[],[],Anna B.  DiCenso,Anna B.  DiCenso (P),20,7,13
+Winter2021,12125,MATH 2217,OL1,3.000,Statistics I,[],[],Irene T.  Mulvey,Irene T.  Mulvey (P),20,13,7
+Winter2021,12162,MATH 2217,OL2,3.000,Statistics I,[],[],Irene T.  Mulvey,Irene T.  Mulvey (P),20,9,11
+Winter2021,12130,MUSC 1104,OL1,3.000,History of Music: 1700-1964,[],[],Michael Anthony  Ciavaglia,Michael Anthony  Ciavaglia (P),20,18,2
+Winter2021,12131,MUSC 1132,OL1,3.000,Critical Issues in American Popular Music: Blues to Hip Hop,[],[],Brian Q.  Torff,Brian Q.  Torff (P),19,14,5
+Winter2021,12163,NURS 4990C,01,0.000,Independent Study in Clinical Practice,[],[],Audrey M.  Beauvais,Audrey M.  Beauvais (P),45,38,7
+Winter2021,12144,NURS 7687,01,1.000-6.000,DNP Immersion,[],[],Joyce Muriel  Shea,Joyce Muriel  Shea (P),30,0,30
+Winter2021,12145,NURS 7687,02,1.000-6.000,DNP Immersion,[],[],Nancy A.  Moriber,Nancy A.  Moriber (P),30,0,30
+Winter2021,12133,PHYS 1078,OL1,3.000,Nature of the Universe,[],[],Joachim   Kuhn,Joachim   Kuhn (P),20,20,0
+Winter2021,12134,PHYS 1087,OL1,3.000,Fundamentals of Astronomy,[],[],Angela   Biselli,Angela   Biselli (P),20,9,11
+Winter2021,12135,PSYC 1310,OL1,3.000,Abnormal Psychology for Non-Majors,[],[],Margaret M.  McClure,Margaret M.  McClure (P),20,12,8
+Winter2021,12164,PSYC 6999,OL1,0.000,Comprehensive Exam in Applied Psychology,"[{'days': 'S', 'times': '1000am-0300pm', 'dates': '01/16-01/16', 'location': 'ONLINE '}]",['S 1000am-0300pm 01/16-01/16 ONLINE '],Kathleen   Tomlin,Kathleen   Tomlin (P),5,1,4
+Winter2021,12147,PUAD 5425,OL1,3.000,Administrative Leadership and Ethics,[],[],Bieu Bu  Tran,Bieu Bu  Tran (P),15,9,6
+Winter2021,12136,RLST 1002,OL1,3.000,"Common Questions, Traditional Response",[],[],John T.  Slotemaker,John T.  Slotemaker (P),20,14,6
+Winter2021,12137,RLST 1002,OL2,3.000,"Common Questions, Traditional Response",[],[],John T.  Slotemaker,John T.  Slotemaker (P),20,14,6
+Winter2021,12159,RLST 1002,OL3,3.000,"Common Questions, Traditional Response",[],[],John T.  Slotemaker,John T.  Slotemaker (P),20,13,7
+Winter2021,12138,RLST 2331,OL1,3.000,The Problem of God,[],[],Erik J.  Ranstrom,Erik J.  Ranstrom (P),20,17,3
+Winter2021,12139,RLST 2428,OL1,3.000,Early Christianity,[],[],Thomas C.  Schmidt,Thomas C.  Schmidt (P),20,17,3
+Winter2021,12141,SOCI 2220,OL1,3.000,Criminal Justice System Seminar,"[{'days': 'MTWRF', 'times': '0930am-1200pm', 'dates': '01/04-01/15', 'location': 'ONLINE '}]",['MTWRF 0930am-1200pm 01/04-01/15 ONLINE '],Rose P.  Rodrigues,Rose P.  Rodrigues (P),19,8,11
+Winter2021,12140,SART 1012,OL1,3.000,Introduction to Drawing,"[{'days': 'MTWRF', 'times': '0930am-1200pm', 'dates': '01/04-01/15', 'location': 'ONLINE '}]",['MTWRF 0930am-1200pm 01/04-01/15 ONLINE '],Kathryn J.  Yarrington,Kathryn J.  Yarrington (P),16,14,2
+Winter2021,12161,TSLA 6999A,01,3.000,Capstone Seminar in Inclusive Language Teaching,[],[],Anne E  Campbell,Anne E  Campbell (P),1,1,0
+Winter2021,12142,TAXN 6540,OL1,3.000,State and Local Taxation,"[{'days': 'M', 'times': '0900am-1200pm', 'dates': '01/04-01/04', 'location': 'ONLINE '}, {'days': 'TWFS', 'times': '0900am-1200pm', 'dates': '01/05-01/15', 'location': 'ONLINE '}, {'days': 'S', 'times': '0900am-0100pm', 'dates': '01/16-01/16', 'location': 'ONLINE '}]","['M 0900am-1200pm 01/04-01/04 ONLINE ', 'TWFS 0900am-1200pm 01/05-01/15 ONLINE ', 'TWFS 0900am-1200pm 01/05-01/15 ONLINE ', 'S 0900am-0100pm 01/16-01/16 ONLINE ', 'S 0900am-0100pm 01/16-01/16 ONLINE ']",Milo William  Peck,Milo William  Peck (P),25,21,4

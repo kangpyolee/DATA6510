@@ -1,0 +1,6 @@
+term: Summer2021
+term-year: 2021
+holiday-rules:
+  - {start-dt: '2021-05-31T00:00', end-dt: '2021-05-31T23:59'} # Memorial Day
+  - {start-dt: '2021-06-19T00:00', end-dt: '2021-06-19T23:59'} # Juneteenth
+  - {start-dt: '2021-07-04T00:00', end-dt: '2021-07-05T00:00'}  # Independence Day

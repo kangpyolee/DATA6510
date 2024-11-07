@@ -1,4 +1,4 @@
-# Banner Dataset (Fall 2014 - Spring 2019)
+# Banner Dataset (Fall 2014 - Spring 2023)
 
 This folder contains this file and a large number of subfolders:
 
